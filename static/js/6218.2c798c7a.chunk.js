@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[6218],{6218:a=>{a.exports=JSON.parse('{"SanaeOrderShuffleSe":{"Mana":"P"},"SanaeSpellManaGreenSe":{"Mana":"GC"},"SanaeSpellManaPhiloSe":{"Mana":"GP"},"TurboFuelStatus":{"manatype":"P"},"HeatStatus":{"HeatDamageRatio":0.2}}')}}]);
