@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://lbol-logs.github.io/static/css/main.2f50f8f4.css",
-    "main.js": "https://lbol-logs.github.io/static/js/main.edbaeab8.js",
+    "main.js": "https://lbol-logs.github.io/static/js/main.9d28e1bf.js",
     "static/js/46453.42f02bf2.chunk.js": "https://lbol-logs.github.io/static/js/46453.42f02bf2.chunk.js",
     "static/js/29697.fa568537.chunk.js": "https://lbol-logs.github.io/static/js/29697.fa568537.chunk.js",
     "static/js/3058.702e789a.chunk.js": "https://lbol-logs.github.io/static/js/3058.702e789a.chunk.js",
@@ -505,11 +505,11 @@
     "static/js/89970.c7075cdc.chunk.js": "https://lbol-logs.github.io/static/js/89970.c7075cdc.chunk.js",
     "index.html": "https://lbol-logs.github.io/index.html",
     "main.2f50f8f4.css.map": "https://lbol-logs.github.io/static/css/main.2f50f8f4.css.map",
-    "main.edbaeab8.js.map": "https://lbol-logs.github.io/static/js/main.edbaeab8.js.map",
+    "main.9d28e1bf.js.map": "https://lbol-logs.github.io/static/js/main.9d28e1bf.js.map",
     "46453.42f02bf2.chunk.js.map": "https://lbol-logs.github.io/static/js/46453.42f02bf2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f50f8f4.css",
-    "static/js/main.edbaeab8.js"
+    "static/js/main.9d28e1bf.js"
   ]
 }
