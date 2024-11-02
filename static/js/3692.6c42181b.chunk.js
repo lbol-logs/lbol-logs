@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[3692],{3692:e=>{e.exports=JSON.parse('{"name":"Sanae_Kochiya","version_number":"0.5.4","website_url":"","description":"Adds Sanae as a playable character.","dependencies":["BepInEx-BepInExPack-5.4.2100","TeamNeo-Sideloader-0.5.0"]}')}}]);
