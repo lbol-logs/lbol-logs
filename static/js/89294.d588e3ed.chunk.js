@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[89294],{89294:s=>{s.exports=JSON.parse('{"documents":{"C:\\\\Users\\\\vcg020\\\\Documents\\\\GitHub\\\\lbol-logs-dev\\\\public\\\\mods\\\\*":"https://raw.githubusercontent.com/lbol-logs/mods/52543e60039aefd17acfb2bbc7ab270555be2199/*"}}')}}]);
