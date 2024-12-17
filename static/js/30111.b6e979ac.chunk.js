@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[30111],{30111:e=>{e.exports=JSON.parse('{"Sanae_Kochiya":["Sanae_Kochiya"],"Utsuho":["Utsuho"]}')}}]);

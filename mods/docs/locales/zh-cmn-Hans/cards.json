@@ -1,0 +1,1054 @@
+{
+  "PatchouliAgniRadiance": {
+    "Name": "火神的光辉",
+    "Description": "<h>咏唱</h> <Value1 /> 个<h>火符</h>。<br /><h>每层充能</h>：额外<h>咏唱</h> <Value2 /> 个<h>火符</h>。"
+  },
+  "PatchouliElementalManipulation": {
+    "Name": "火神之光",
+    "Description": "造成 <Damage /> 点伤害 <Value2 /> 次。<br /><h>咏唱</h> <Value1 /> 个<h>$t(PatchouliElementalManipulation.Sign, { 'context': {{Sign}} })符</h>。",
+    "Sign_0": "火",
+    "Sign_1": "水",
+    "Sign_2": "木",
+    "Sign_3": "金",
+    "Sign_4": "土",
+    "Sign_5": "日",
+    "Sign_6": "月"
+  },
+  "PatchouliAgniShine": {
+    "Name": "火神之光",
+    "Description": "造成 <Damage /> 点伤害 <Value2 /> 次。<br /><h>咏唱</h> <Value1 /> 个<h>火符</h>。"
+  },
+  "PatchouliArcaneWard": {
+    "Name": "奥术守卫",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br />获得 <Value2 /> 点<h>反射</h>。<br /><h>每层增幅</h>：额外获得 <Value1 /> 点<h>格挡</h>和<h>反射</h>。"
+  },
+  "PatchouliAstronomy": {
+    "Name": "天文学",
+    "Description": "抽 <Value1 /> 张牌。<br /><h>增幅</h> <BoostThreshold1 />：获得<Mana />。"
+  },
+  "PatchouliAstronomyStudy": {
+    "Name": "天文研习",
+    "Description": "<PlayerName />的回合开始时，如果<PlayerName />的手中没有<h>天文学</h>，将一张<h>天文学</h>加入手中。"
+  },
+  "PatchouliAttackB": {
+    "Name": "钻石刀刃",
+    "Description": "造成 <Damage /> 点伤害。"
+  },
+  "PatchouliAttackU": {
+    "Name": "水龙",
+    "Description": "造成 <Damage /> 点伤害。"
+  },
+  "PatchouliAutumnBlade": {
+    "Name": "秋之刃",
+    "Description": "造成 <Damage /> 点伤害。<br /><h>增幅</h> <BoostThreshold1 />：获得 <Value1 /> 层<h>庇护</h>。<br /><h>增幅</h> <BoostThreshold2 />：获得 <Value2 /> 层<h>护身符</h>。"
+  },
+  "PatchouliAwakenedSpellbook": {
+    "Name": "觉醒的法术书",
+    "Description": "当<PlayerName />打出一张<h>增幅</h>层数至少为 <Value2 /> 层的<h>增幅</h>牌后，<h>咏唱</h> <Value1 /> 个<h>火符</h>。"
+  },
+  "PatchouliBlockB": {
+    "Name": "虚无精灵",
+    "Description": "获得 <Block /> 点<h>格挡</h>。"
+  },
+  "PatchouliBlockU": {
+    "Name": "北极冷风",
+    "Description": "获得 <Block /> 点<h>格挡</h>。"
+  },
+  "PatchouliBuryInLake": {
+    "Name": "湖葬",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br /><h>咏唱</h> <Value1 /> 个<h>水符</h>。",
+    "UpgradedDescription": "获得 <Shield /> 点<h>护盾</h>。<br /><h>咏唱</h> <Value1 /> 个<h>水符</h>。"
+  },
+  "PatchouliCircadianRhythm": {
+    "Name": "昼夜节律",
+    "Description": "<h>咏唱</h> <Value1 /> 个<h>日符</h>。<br />当<h>日符</h>或<h>月符</h>触发<h>主动</h>效果后，<h>咏唱</h>等量的<h>月符</h>或<h>日符</h>。"
+  },
+  "PatchouliConcentration": {
+    "Name": "专注",
+    "Description": "抽 <Value1 /> 张牌。<br /><h>增幅</h> <BoostThreshold1 /> 以及 <BoostThreshold2 />：获得 <Value2 /> 点<h>格挡</h>。"
+  },
+  "PatchouliCondensedBubble": {
+    "Name": "浓缩水泡",
+    "Description": "造成 <Damage /> 点伤害 <Value2 /> 次。<br /><h>每层增幅</h>额外造成 <Value1 /> 点伤害。"
+  },
+  "PatchouliCounterspell": {
+    "Name": "法术反制",
+    "Description": "<h>反制攻击</h>:获得 <Value1 /> 层<h>闪避</h>。<br /><h>反制精准攻击</h>:获得 <Block /> 点<h>格挡</h>。<br /><h>反制符卡</h>:获得 <Block /> 点<h>护盾</h>。"
+  },
+  "PatchouliCountersquall": {
+    "Name": "狂风反制",
+    "Description": "<h>反制攻击</h>：造成 <Damage /> 点伤害，获得 <Block /> 点<h>格挡</h>。<br /><h>反制减益</h>获得 <Value1 /> 层<h>护身符</h>。"
+  },
+  "PatchouliCurrentConductor": {
+    "Name": "导电体",
+    "Description": "当<h>水符</h>触发时，对所有敌人施加 <Value2 /> 层<h>溺水</h>，然后触发<h>溺水</h>的效果。<br /><h>咏唱</h> <Value1 /> 个<h>水符</h>。"
+  },
+  "PatchouliDiamondHardness": {
+    "Name": "钻石硬度",
+    "Description": "获得 <Shield /> 点<h>护盾</h>。<br />获得 <Value1 /> 点<h>反射</h>。<br /><h>增幅</h> <BoostThreshold1 />：获得 <Value2 /> 点<h>带电</h>。"
+  },
+  "PatchouliDiamondRing": {
+    "Name": "钻石戒指",
+    "Description": "造成 <Damage /> 点伤害。<br /><h>抉择</h>：<h>咏唱</h> <Value1 /> 个<h>日符</h>，或<h>咏唱</h> <Value1 /> 个<h>月符</h>。"
+  },
+  "PatchouliDimensionShift": {
+    "Name": "次元超越",
+    "Description": "结束<PlayerName />的回合。 然后获得一个额外的回合。<br /><h>时间有限</h><Mana1 />。<br /><h>每层增幅</h>：<SelfName />的费用减少<Mana />。",
+    "UpgradedDescription": "结束<PlayerName />的回合。 然后获得一个额外的回合。<br /><h>每层增幅</h>：<SelfName />的费用减少<Mana />。"
+  },
+  "PatchouliDistortionField": {
+    "Name": "扭曲力场",
+    "Description": "获得 <Value1 /> 层<h>闪避</h>。<br /><h>增幅</h>手中的所有牌。",
+    "UpgradedDescription": "获得 <Value1 /> 层<h>闪避</h>。<br /><h>增幅</h>手中的所有牌两次。"
+  },
+  "PatchouliDoyouSpear": {
+    "Name": "土用枪",
+    "Description": "造成 <Damage /> 点伤害。<br />如果<SelfName />击杀目标，获得<Mana />。"
+  },
+  "PatchouliElementalHarvester": {
+    "Name": "元素收获者",
+    "Description": "获得<Mana />。<br /><h>增幅</h> <BoostThreshold1 />：额外获得<BonusMana />。"
+  },
+  "PatchouliElementalTriangle": {
+    "Name": "元素三角",
+    "Description": "<h>抉择</h>：<h>咏唱</h> <Value1 /> 个<h>火符</h>，<h>水符</h>或<h>木符</h>。<br />触发它的<h>被动</h>效果。"
+  },
+  "PatchouliElementalTriangleFire": {
+    "Name": "火元素",
+    "Description": "<h>咏唱</h> <Value1 /> 个<h>火符</h>。"
+  },
+  "PatchouliElementalTriangleWater": {
+    "Name": "水元素",
+    "Description": "<h>咏唱</h> <Value1 /> 个<h>水符</h>。"
+  },
+  "PatchouliElementalTriangleWood": {
+    "Name": "木元素",
+    "Description": "<h>咏唱</h> <Value1 /> 个<h>木符</h>。"
+  },
+  "PatchouliEmeraldMegalith": {
+    "Name": "翡翠巨石",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br />如果<PlayerName /> 拥有至少 <Value1 /> 种<h>曜符</h>，选择手中至多 <Value2 /> 张牌赋予<h>保留</h>。"
+  },
+  "PatchouliEnigmaticMagic": {
+    "Name": "神秘魔法",
+    "Description": "当<PlayerName /><h>咏唱</h>时，获得 <Value1 /> 点<h>格挡</h>。"
+  },
+  "PatchouliEveryAngleShot": {
+    "Name": "全方位射击",
+    "Description": "造成 <Damage /> 点伤害。<br /><h>增幅</h> <BoostThreshold1 />：将一张<SelfName />加入手中，它具有<h>放逐</h>和<h>虚无</h>。",
+    "UpgradedDescription": "造成 <Damage /> 点伤害。<br /><h>增幅</h> <BoostThreshold1 />：将一张<SelfName />+加入手中，它具有<h>放逐</h>和<h>虚无</h>。"
+  },
+  "PatchouliFatesHand": {
+    "Name": "命运之手",
+    "Description": "抽 <Value1 /> 张牌。<br /><h>每层增幅</h>： <SelfName /> 的费用减少<Mana />。"
+  },
+  "PatchouliFiveSeasons": {
+    "Name": "五季",
+    "Description": "<PlayerName />的回合结束时，正在咏唱的<h>曜符</h>触发<h>被动</h>效果。"
+  },
+  "PatchouliFlashOfSpring": {
+    "Name": "春意乍现",
+    "Description": "抽 <Value1 /> 张牌。<br /><h>咏唱</h> <Value2 /> 个<h>木符</h>。"
+  },
+  "PatchouliForestBlaze": {
+    "Name": "森林大火",
+    "Description": "造成 <Damage /> 点伤害。<br /><h>咏唱</h> <Value1 /> 个<h>火符</h>。<br /><h>咏唱</h> <Value1 /> 个<h>木符</h>。<br />每种正在咏唱的<h>曜符</h>使<SelfName />的费用减少<Mana />。"
+  },
+  "PatchouliGingerDust": {
+    "Name": "淡黄色的阵风",
+    "Description": "抽 <Value2 /> 张牌。<br /><h>咏唱</h> <Value1 /> 个<h>土符</h>。<br /><h>增幅</h> <BoostThreshold1 />： <h>咏唱</h> <Value1 /> 个<h>金符</h>。"
+  },
+  "PatchouliGirlOfKnowledge": {
+    "Name": "知识少女",
+    "Description": "获得 <Value1 /> 点<h>魔力</h>。"
+  },
+  "PatchouliGirlOfShade": {
+    "Name": "影之少女",
+    "Description": "将 <Value1 /> 张<h>暗影</h>洗入弃牌堆。赋予它们<h>填充</h>。<br />当一张<h>状态</h>牌或<h>厄运</h>牌被<h>放逐</h>时，获得 <Value2 /> 点<h>火力</h>和<h>灵力</h>。"
+  },
+  "PatchouliGrandIncantation": {
+    "Name": "大型咒语",
+    "Description": "当<PlayerName />打出一张<h>增幅</h>牌后，对生命值最高的敌人造成等于其<h>增幅</h>层数的伤害。"
+  },
+  "PatchouliGreenStorm": {
+    "Name": "翠绿风暴",
+    "Description": "造成 <Damage /> 点伤害。<br /><h>每层充能</h>：额外造成一次伤害。"
+  },
+  "PatchouliHydrogenousProminence": {
+    "Name": "氢化日珥",
+    "Description": "获得 <Shield /> 点<h>护盾</h>。<br /><h>咏唱</h> <Value1 /> 个<h>日符</h>。<br /><h>咏唱</h> <Value1 /> 个<h>水符</h>。<br />每种正在咏唱的<h>曜符</h>使<SelfName />的费用减少<Mana />。"
+  },
+  "PatchouliIntruderSecurity": {
+    "Name": "入侵者警报",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br />选择弃牌堆中的至多 <Value1 /> 张牌，将其移回手牌。"
+  },
+  "PatchouliJellyfishPrincess": {
+    "Name": "水母公主",
+    "Description": "<h>每支付<ManaU /></h>：对所有敌人造成 <Damage /> 点伤害。<br /><h>每支付<ManaB /></h>：<h>咏唱</h> <Value1 /> 个<h>月符</h>。"
+  },
+  "PatchouliKnowledgeSeeker": {
+    "Name": "知识探索者",
+    "Description": "获得 <Value1 /> 点<h>魔力</h>。<br /><h>增幅</h> <BoostThreshold1 />：不会<h>放逐</h>。"
+  },
+  "PatchouliKoakumaFriend": {
+    "Name": "恶魔助手小恶魔",
+    "Description": "<h>咏唱</h> <Value1 /> 个<h>火符</h>。",
+    "UpgradedDescription": "<h>咏唱</h> <Value1 /> 个<h>火符</h>。",
+    "PassiveDescription": "抽 <Value1 /> 张牌。",
+    "UpgradedPassiveDescription": "抽 <Value1 /> 张牌。",
+    "ActiveDescription": "将一张<h>灵异</h>加入手中。",
+    "UpgradedActiveDescription": "将一张<h>幻虹</h>加入手中。",
+    "UltimateDescription": "<h>火符</h>在本场战斗中造成双倍伤害。"
+  },
+  "PatchouliKrakenWave": {
+    "Name": "海怪巨浪",
+    "Description": "<h>增幅</h> <BoostThreshold1 /> <h>次时</h>：对所有敌人造成 <Value1 /> 点伤害，获得 <Value1 /> 点<h>格挡</h>，丢弃并重置<SelfName />的<h>增幅</h>。"
+  },
+  "PatchouliLavaCromlech": {
+    "Name": "环状熔岩带",
+    "Description": "造成 <Damage /> 点伤害。<br />本场战斗中每<h>咏唱</h>过一个<h>曜符</h>，额外造成 <Value1 /> 点伤害。"
+  },
+  "PatchouliMagicalResearch": {
+    "Name": "魔法研究",
+    "Description": "从 <Value1 /> 张随机的<h>增幅</h>牌中选择 1 张加入手中。这张牌<h>暂塑</h>为<Mana />，具有<h>放逐</h>和<h>虚无</h>。"
+  },
+  "PatchouliManaDrain": {
+    "Name": "法力吸取",
+    "Description": "造成 <Damage /> 点伤害。<br /><h>增幅</h> <BoostThreshold1 />：施加 <Value1 /> 层<h>虚弱</h>。"
+  },
+  "PatchouliMercuryPoisoning": {
+    "Name": "水银之毒",
+    "Description": "<h>咏唱</h> <Value3 /> 个<h>金符</h>。<br /><h>抉择</h>：施加 <Value1 /> 层<h>中毒</h>；或施加 <Value2 /> 层<h>虚弱</h>。"
+  },
+  "PatchouliMetalFatigue": {
+    "Name": "金属疲劳",
+    "Description": "<h>咏唱</h> <Value1 /> 个<h>金符</h>。<br />施加 <Value2 /> 层<h>暂失火力</h>。<br /><h>充能</h> <BoostThreshold1 />：施加 <Value2 /> 层<h>失去火力</h>，然后<h>放逐</h><SelfName />。"
+  },
+  "PatchouliMoongazing": {
+    "Name": "观月",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br />将 <Value1 /> 张<h>天文学</h>加入手中。",
+    "UpgradedDescription": "获得 <Block /> 点<h>格挡</h>。<br />将 <Value1 /> 张<h>天文学</h>加入手中。<br /><h>增幅</h>手中的所有牌。"
+  },
+  "PatchouliMoonlitChill": {
+    "Name": "月下寒意",
+    "Description": "获得 <Value1 /> 点<h>火力</h>和 <Value2 /> 点<h>灵力</h>。<br /><h>增幅</h> <BoostThreshold1 />：额外获得 <Value2 /> 点 <h>火力</h>。<br /><h>增幅</h> <BoostThreshold2 />：额外获得 <Value1 /> 点<h>灵力</h>。"
+  },
+  "PatchouliNegate": {
+    "Name": "否定",
+    "Description": "<h>反制攻击</h>：获得 <Block /> 点<h>格挡</h>。<br /><h>反制状态</h>获得 <Value1 /> 层<h>庇护</h>。"
+  },
+  "PatchouliNoachianDeluge": {
+    "Name": "诺亚的大洪水",
+    "Description": "造成 <Damage /> 点伤害。<br /><SelfName />可以<h>增幅</h>任意次数。<br /><h>每层增幅</h>：额外造成 <Value1 /> 点伤害。"
+  },
+  "PatchouliObservatory": {
+    "Name": "天文台",
+    "Description": "造成 <Damage /> 点伤害。<br />将 <Value1 /> 张<h>天文学</h>加入手中。",
+    "UpgradedDescription": "造成 <Damage /> 点伤害。<br />将 <Value1 /> 张<h>天文学</h>加入手中。<br /><h>增幅</h>手中的所有牌。"
+  },
+  "PatchouliOneWeekGirl": {
+    "Name": "七曜少女",
+    "Description": "<h>咏唱</h> <Value1 /> 个<h>火符</h>。<br /><PlayerName />的回合开始时，<h>咏唱</h> <Value1 /> 个<h>水符</h>。<h>曜符</h>的种类每回合都会切换。"
+  },
+  "PatchouliPhilosopherStone": {
+    "Name": "贤者之石",
+    "Description": "<h>咏唱</h> <Value1 /> 个<h>火符</h>。<br /><h>咏唱</h> <Value1 /> 个<h>水符</h>。<br /><h>咏唱</h> <Value1 /> 个<h>木符</h>。<br /><h>咏唱</h> <Value1 /> 个<h>金符</h>。<br /><h>咏唱</h> <Value1 /> 个<h>土符</h>。"
+  },
+  "PatchouliPhlogisticPillar": {
+    "Name": "燃素之柱",
+    "Description": "当<PlayerName />打出一张<h>增幅</h>牌后，获得 <Value1 /> 点<h>护盾</h>。"
+  },
+  "PatchouliPhlogisticRain": {
+    "Name": "燃素之雨",
+    "Description": "造成 <Damage /> 点伤害 <Value2 /> 次。<br /><h>增幅</h> <BoostThreshold1 />：获得<Mana />，抽 <Value1 /> 张牌。"
+  },
+  "PatchouliPhotosynthesis": {
+    "Name": "光合作用",
+    "Description": "选择手中的至多 <Value2 /> 张牌，将它们放逐。<br /><h>咏唱</h>等量的<h>日符</h>。"
+  },
+  "PatchouliRapidCharge": {
+    "Name": "快速充能",
+    "Description": "获得<Mana />。<br />触发所有<h>曜符</h>的<h>被动</h>效果。<br /><h>充盈</h>：获得<Mana />。",
+    "UpgradedDescription": "获得<Mana />。<br />触发所有<h>曜符</h>的<h>被动</h>效果两次。<br /><h>充盈</h>：获得<Mana />。"
+  },
+  "PatchouliRingOfAgni": {
+    "Name": "天火神印",
+    "Description": "造成 <Damage /> 点伤害。<br /><h>每支付</h><Mana /><h>及每层增幅</h>：额外造成 <Value1 /> 点伤害。"
+  },
+  "PatchouliRoyalFlare": {
+    "Name": "皇家圣焰",
+    "Description": "<h>回合开始时</h>：获得 <Value1 /> 点<h>暂得魔力</h>。<br /><h>手牌中</h>：当<PlayerName /><h>咏唱</h> <Value2 /> 次后，对所有敌人造成 <Damage /> 点伤害，然后丢弃<SelfName />。"
+  },
+  "PatchouliSaintElmoPillar": {
+    "Name": "圣爱尔摩之柱",
+    "Description": "<h>咏唱</h> <Value1 /> 个<h>金符</h>。<br />当<PlayerName />的<h>反射</h>效果触发时，对所有敌人造成<h>反射</h>点数的伤害。"
+  },
+  "PatchouliSakuyaFriend": {
+    "Name": "时空主宰咲夜",
+    "Description": "将 <Value1 /> 张<h>飞刀</h>加入手中。",
+    "UpgradedDescription": "将 <Value1 /> 张<h>飞刀+</h>加入手中。",
+    "PassiveDescription": "将 <Value1 /> 张<h>飞刀</h>加入手中。",
+    "UpgradedPassiveDescription": "将 <Value1 /> 张<h>飞刀</h>加入手中。",
+    "ActiveDescription": "获得 <Value1 /> 层<h>闪避</h>。",
+    "UltimateDescription": "结束<PlayerName />的回合。获得一个额外的回合。"
+  },
+  "PatchouliSatelliteHimawari": {
+    "Name": "卫星向日葵",
+    "Description": "<h>咏唱</h> <Value1 /> 个<h>木符</h>。<br /><h>木符</h>的<h>被动</h>效果改为对本场战斗中的所有<h>木符</h>生效。"
+  },
+  "PatchouliSilentSelene": {
+    "Name": "沉静的月神",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br /><h>咏唱</h> <Value1 /> 个<h>月符</h>。"
+  },
+  "PatchouliSilverDragon": {
+    "Name": "银龙",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br /><h>咏唱</h> <Value1 /> 个<h>金符</h>。",
+    "UpgradedDescription": "获得 <Block /> 点<h>格挡</h>。<br /><h>咏唱</h> <Value1 /> 个<h>金符</h>。<br />触发<h>金符</h>的<h>被动</h>效果。"
+  },
+  "PatchouliSpellCreation": {
+    "Name": "法术创造",
+    "Description": "造成 <Damage /> 点伤害。<br /><h>增幅</h> <BoostThreshold1 /> ， <BoostThreshold2 /> 以及 <BoostThreshold3 />：选择获得 <Value2 /> 项额外效果。",
+    "UpgradedDescription": "造成 <Damage /> 点伤害。<br />选择获得 <Value2 /> 项额外效果。<br /><h>增幅</h> <BoostThreshold1 />, <BoostThreshold2 /> 以及 <BoostThreshold3 />：再选择获得 <Value2 /> 项额外效果。"
+  },
+  "PatchouliSpellCreationBlock": {
+    "Name": "盾牌",
+    "Description": "获得 <Block /> 点<h>格挡</h>。"
+  },
+  "PatchouliSpellCreationDraw": {
+    "Name": "恢复魔力",
+    "Description": "抽 <Value1 /> 张牌。"
+  },
+  "PatchouliSpellCreationFire": {
+    "Name": "火焰伤害",
+    "Description": "<h>咏唱</h> <Value1 /> 个<h>火符</h>。"
+  },
+  "PatchouliSpellCreationWeak": {
+    "Name": "冷静",
+    "Description": "对所有敌人施加 <Value2 /> 层<h>虚弱</h>。"
+  },
+  "PatchouliSpellDuplication": {
+    "Name": "法术复制器",
+    "Description": "选择一张手牌。 将它的 <Value1 /> 张<h>复制</h>加入手中。<br />这张复制<h>暂塑为</h><Mana />，具有<h>放逐</h>和<h>虚无</h>。<br />如果这是一张<h>增幅</h>牌，获得其<h>增幅</h>。"
+  },
+  "PatchouliSpellMastery": {
+    "Name": "法术精通",
+    "Description": "造成 <Damage /> 点伤害。<br /><h>增幅</h> <BoostThreshold1 />：将一张<h>水花</h>放入手中。<br /><h>增幅</h> <BoostThreshold2 />：并将其<h>升级</h>。",
+    "UpgradedDescription": "造成 <Damage /> 点伤害。<br /><h>增幅</h> <BoostThreshold1 />：将一张<h>幻虹</h>放入手中。<br /><h>增幅</h> <BoostThreshold2 />：并将其<h>升级</h>。"
+  },
+  "PatchouliSpellPowerGrasp": {
+    "Name": "法力掌握",
+    "Description": "<PlayerName />的回合开始时，<h>增幅</h>手中的所有牌。",
+    "UpgradedDescription": "<h>增幅</h>手中的所有牌。<br /><PlayerName />的回合开始时，<h>增幅</h>手中的所有牌。"
+  },
+  "PatchouliSpringWind": {
+    "Name": "春之风",
+    "Description": "选择手中至多 <Value1 /> 张牌。赋予它们<h>回响</h>。<br /><h>增幅</h> <BoostThreshold1 />：将 <Value1 /> 张<h>生机</h>加入手中。",
+    "UpgradedDescription": "选择手中至多 <Value1 /> 张牌。赋予它们<h>回响</h>。<br /><h>增幅</h> <BoostThreshold1 />：将 <Value1 /> 张<h>幻虹</h>加入手中。"
+  },
+  "PatchouliSummerRed": {
+    "Name": "夏之红",
+    "Description": "选择手中的至多 <Value1 /> 张牌，<h>保留</h>它们一回合。<br />如果选择了<h>增幅</h>牌，还会<h>增幅</h>它  <Value2 /> 次。"
+  },
+  "PatchouliSungrazerComet": {
+    "Name": "掠日者彗星",
+    "Description": "<h>抉择</h>：获得 <Value1 /> 层<h>闪避</h>；或获得 <Block /> 点<h>格挡</h>。<br /><h>增幅</h> <BoostThreshold1 />：获得两者。"
+  },
+  "PatchouliSunshineReflector": {
+    "Name": "日光反射器",
+    "Description": "对所有敌人造成 <Damage /> 点伤害。<br /><h>咏唱</h> <Value1 /> 个<h>日符</h>。"
+  },
+  "PatchouliSylphyHorn": {
+    "Name": "风灵的角笛",
+    "Description": "<h>咏唱</h> <Value1 /> 个<h>木符</h>。<br />当一个<h>曜符</h>触发<h>主动</h>效果后，将<SelfName />从<h>放逐</h>区移回手牌。"
+  },
+  "PatchouliTeaBreak": {
+    "Name": "饮茶时间",
+    "Description": "恢复 <Value1 /> 点生命。<br />移除<PlayerName />的<h>易伤</h>。",
+    "UpgradedDescription": "恢复 <Value1 /> 点生命。<br />移除<PlayerName />的<h>锁定</h>，<h>易伤</h>和<h>虚弱</h>。"
+  },
+  "PatchouliTheUnmovingGreatLibrary": {
+    "Name": "不动的大图书馆",
+    "Description": "获得 <Value1 /> 点<h>魔力</h>。<br />当<h>曜符</h>触发<h>主动</h>效果后，获得 <Value2 /> 点<h>魔力</h>。"
+  },
+  "PatchouliTidalWave": {
+    "Name": "潮汐巨浪",
+    "Description": "施加 <Value1 /> 层<h>溺水</h>。<br />触发敌人的<h>溺水</h>效果。<br /><h>增幅</h> <BoostThreshold1 />：额外施加 <Value2 /> 层<h>溺水</h>。"
+  },
+  "PatchouliTwinspell": {
+    "Name": "双生法术",
+    "Description": "抽 <Value1 /> 张牌。    <h>手牌中</h>：当<PlayerName />打出一张<h>增幅</h>牌后，<SelfName />在本场战斗中变形为其复制，并获得其<h>增幅</h>层数。",
+    "UpgradedDescription": "抽 <Value1 /> 张牌。    <h>手牌中</h>：当<PlayerName />打出一张<h>增幅</h>牌后，<SelfName />在本场战斗中变形为其<h>升级</h>后的复制，并获得其<h>增幅</h>层数。"
+  },
+  "PatchouliVoile": {
+    "Name": "伏瓦尔魔法图书馆",
+    "Description": "当<PlayerName />打出一张<h>增幅</h>牌后，根据其<h>增幅</h>层数获得以下效果：<br /><BoostThreshold1 /> 层：抽 <Value1 /> 张牌。<br /><BoostThreshold2 /> 层：获得<Mana />。<br /><BoostThreshold3 /> 层：获得 <Value1 /> 点<h>火力</h>。"
+  },
+  "PatchouliWaterElf": {
+    "Name": "水精灵",
+    "Description": "造成 <Damage /> 点伤害。<br /><h>咏唱</h> <Value1 /> 个<h>水符</h>。<br /><h>咏唱</h> <Value1 /> 个<h>木符</h>。<br /><h>每层增幅</h>：<SelfName />的费用减少<Mana />。"
+  },
+
+  "SanaeAmuletDebuff": {
+    "Name": "弘安东风谷",
+    "Description": "<h>抉择</h>至少一项：<br />- 获得 <Value1 /> 点<h>火力</h>和 <Value1 /> 层<h>虚弱</h>。<br />- 获得 <Value1 /> 点<h>灵力</h>和 <Value1 /> 层<h>脆弱</h>。<br />- 获得 <Value1 /> 点最大生命，<Value1 /> 层<h>易伤</h>和<h>中毒</h>。"
+  },
+  "SanaeAmuletDebuffFrail": {},
+  "SanaeAmuletDebuffVuln": {},
+  "SanaeAmuletDebuffWeak": {},
+  "SanaeAmuletTalisman": {
+    "Name": "一脉单传",
+    "Description": "获得 <Value1 /> 点<Power />。<br />将 <Value2 /> 张<h>守矢护符</h>洗入抽牌堆。<br /><PlayerName />每有一层<h>护身符</h>，<SelfName />的费用减少<Mana />。"
+  },
+  "SanaeAttackAmulet": {
+    "Name": "御币猛击",
+    "Description": "造成 <Damage /> 点伤害。<br />如果<PlayerName />没有<h>护身符</h>，获得 <Value1 /> 层<h>护身符</h>。",
+    "UpgradedDescription": "造成 <Damage /> 点伤害。<br />如果<PlayerName />没有<h>护身符</h>，获得 <Value1 /> 层<h>护身符</h>。"
+  },
+  "SanaeAttackBlock": {
+    "Name": "魔法爆发",
+    "Description": "失去所有<h>格挡</h>，并对所有敌人造成等量的伤害。<br />获得 <Block /> 点<h>格挡</h>。<br />结束<PlayerName />的回合。"
+  },
+  "SanaeAttackCopy": {
+    "Name": "涟漪效应",
+    "Description": "造成 <Damage /> 点伤害。<br />将此牌的一张复制置于抽牌堆顶，它具有<h>放逐</h>。"
+  },
+  "SanaeAttackDebuff": {
+    "Name": "御社宫司神的谷粒",
+    "Description": "对所有敌人造成 <Damage /> 点伤害。<br />对所有敌人施加 <Value1 /> 层<h>虚弱</h>和<h>易伤</h>。"
+  },
+  "SanaeAttackExpel": {
+    "Name": "钴蓝散射",
+    "Description": "对所有敌人造成 <Damage /> 点伤害。<br /><h>退治时</h>：获得 <Value1 /> 点<Power />。"
+  },
+  "SanaeAttackGraze": {
+    "Name": "尖锐微风",
+    "Description": "对 <Value1 /> 个不同的敌人造成 <Damage /> 点伤害。<br />每击中一个敌人，获得<Mana />。"
+  },
+  "SanaeAttackOrder": {
+    "Name": "海浪断面",
+    "Description": "造成 <Damage /> 点伤害。<br />将抽牌堆顶的一张牌的<h>复制品</h>加入手中，<h>暂塑为</h> <Mana0 />，具有<h>放逐</h>。",
+    "UpgradedDescription": "造成 <Damage /> 点伤害。<br />获得<Mana />。<br />将抽牌堆顶的一张牌的<h>复制品</h>加入手中，<h>暂塑为</h> <Mana0 />，具有<h>放逐</h>。"
+  },
+  "SanaeAttackOverdraft": {
+    "Name": "五芒星棱镜",
+    "Description": "造成 <Damage /> 点伤害。<br />你可以<h>透支</h> <Value1 /> 以获得 <Block /> 点<h>格挡</h>。"
+  },
+  "SanaeAttackPower": {
+    "Name": "妖力掠夺者",
+    "Description": "造成 <Damage /> 点伤害。<br />获得等同于造成未被格挡的伤害的数量的 <Power />。"
+  },
+  "SanaeAttackRandom": {
+    "Name": "净化之雾",
+    "Description": "对随机敌人造成 <Damage /> 点伤害 <Value1 /> 次。<br />你可以将 <Value2 /> 张<h>纯粹的光芒</h>置于牌堆顶，以获得<Mana />。"
+  },
+  "SanaeAttackRebuff": {
+    "Name": "米之浴",
+    "Description": "对所有敌人造成 <Damage /> 点伤害。<br />如果有敌人的意图是添加负面效果，获得 <Value1 /> 层<h>护身符</h>。"
+  },
+  "SanaeAttackSpirit": {
+    "Name": "祈愿形态",
+    "Description": "造成 <Damage /> 点伤害。<br />获得 <Value1 /> 点<h>暂得灵力</h>。"
+  },
+  "SanaeAttackStatus": {
+    "Name": "闪光灯",
+    "Description": "对所有敌人造成 <Damage /> 点伤害。<br />将一张<h>璀璨星光</h>加入手中。"
+  },
+  "SanaeAttackTwice": {
+    "Name": "被遗忘的秘传",
+    "Description": "造成 <Damage /> 点伤害。<br />如果<PlayerName />拥有<h>护身符</h>，失去 <Value1 /> 层<h>护身符</h>并改为造成两次伤害。<br />否则，获得 <Value2 /> 层<h>护身符</h>。"
+  },
+  "SanaeAttackU": {
+    "Name": "起浪",
+    "Description": "造成 <Damage /> 点伤害。"
+  },
+  "SanaeAttackW": {
+    "Name": "唤风",
+    "Description": "造成 <Damage /> 点伤害。"
+  },
+  "SanaeAttackWeak": {
+    "Name": "漩涡之眼",
+    "Description": "对目标施加 <Value1 /> 层<h>虚弱</h>。<br />然后对所有其他敌人造成 <Damage /> 点伤害。"
+  },
+  "SanaeBlockDiscard": {
+    "Name": "收集雨水",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br />丢弃一张手牌",
+    "UpgradedDescription": "获得 <Block /> 点<h>格挡</h>。<br />丢弃至多一张手牌。"
+  },
+  "SanaeBlockG": {
+    "Name": "星落",
+    "Description": "获得 <Block /> <h>格挡</h>。"
+  },
+  "SanaeBlockMana": {
+    "Name": "保存甜浆果",
+    "Description": "获得 <Block /> <h>格挡</h>。<br />直到<PlayerName />的下个回合开始，剩余的法力不会流失。<br /><h>透支</h> <Value1 />。"
+  },
+  "SanaeBlockRebuff": {
+    "Name": "铸造护符",
+    "Description": "获得 <Block /> <h>格挡</h>和<h>护盾</h>。<br />如果<PlayerName />有<h>护身符</h>，失去 <Value1 /> 层<h>护身符</h>，对所有敌人施加 <Value2 /> 层<h>虚弱</h>。"
+  },
+  "SanaeBlockShuffle": {
+    "Name": "预见之舞",
+    "Description": "抽牌堆洗牌时，获得 <Value1 /> 点<h>格挡</h>。<br />占卜 <Scry />。"
+  },
+  "SanaeBlockTalisman": {
+    "Name": "神社安保",
+    "Description": "获得 <Block /> <h>格挡</h>。<br />将 <Value1 /> 张<h>守矢护符</h>放入弃牌堆。"
+  },
+  "SanaeBlockWard": {
+    "Name": "非正统防御",
+    "Description": "获得 <Block /> 点<h>格挡</h> <Value1 /> 次。<br />获得 <Value2 /> 层<h>庇护</h> <Value1 /> 次。"
+  },
+  "SanaeColorRandom": {
+    "Name": "光谱太阳雨",
+    "Description": "从 <Value1 /> 张随机的卡牌中选择 1 张加入手中。它<h>暂塑为</h><Mana0 />，具有<h>放逐</h>和<h>虚无</h>。<br />这些牌的颜色分别包含<Mana />。"
+  },
+  "SanaeCuriousAbility": {
+    "Name": "过时的外乡人",
+    "Description": "<PlayerName />打出一张能力牌后，获得 <Value1 /> 点<h>火力</h>。"
+  },
+  "SanaeDazzleDash": {
+    "Name": "超级烟花",
+    "Description": "获得 <Value1 /> 点<h>火力</h>。<br />获得 <Value2 /> 点<Power />。<br /><h>手牌中</h>：使用符卡时，<SelfName />在本回合中效果数值翻倍。"
+  },
+  "SanaeDrawAbility": {
+    "Name": "诹访湖的两柱半神明",
+    "Description": "抽 <Value1 /> 张牌。<br />抽到的能力牌的费用<h>暂时降低</h><Mana />。",
+    "UpgradedDescription": "抽 <Value1 /> 张牌。<br />抽到的能力牌的费用<h>暂时降低</h> 1 点随机的法力。"
+  },
+  "SanaeDrawDebuff": {
+    "Name": "湍流城市化魔杖",
+    "Description": "<h>手牌中</h>：抽牌阶段外每抽一张牌，获得<Mana />。<br /><h>被放逐时</h>：失去 <Value2 /> 点生命，本回合不能再抽牌。",
+    "UpgradedDescription": "<h>手牌中，</h>：抽牌阶段外每抽一张牌，获得 <Value1 /> 点随机法力。<br /><h>被放逐时</h>：失去 <Value2 /> 点生命，本回合不能再抽牌。"
+  },
+  "SanaeDrawDiscard": {
+    "Name": "水上行走",
+    "Description": "抽 <Value1 /> 张牌。<br />你可以丢弃随机 <Value2 /> 张牌，然后多抽 <Value2 /> 张牌。"
+  },
+  "SanaeDrawOrder": {
+    "Name": "海螺脱壳",
+    "Description": "检视抽牌堆顶的 <Value1 /> 张牌。将其中一张移动到抽牌堆顶。",
+    "UpgradedDescription": "检视抽牌堆顶的 <Value1 /> 张牌。将其中一张移动到抽牌堆顶。<br />抽 <Value2 /> 张牌。"
+  },
+  "SanaeDrawSplash": {
+    "Name": "摩西之奇迹",
+    "Description": "抽 <Value1 /> 张牌。<br />丢弃手中所有的技能牌，将等量的<h>水花</h>加入手中，它们具有<h>自动放逐</h>。"
+  },
+  "SanaeDrawTalisman": {
+    "Name": "堆积底图",
+    "Description": "将 <Value1 /> 张<h>守矢护符</h>置于抽牌堆顶。<br />抽 <Value2 /> 张牌。"
+  },
+  "SanaeDrawTemp": {
+    "Name": "校园科技集市",
+    "Description": "抽 <Value1 /> 张牌。<br /><PlayerName />的回合开始时，抽 <Value1 /> 张牌，然后丢弃其中所有的非技能牌。"
+  },
+  "SanaeDrawWard": {
+    "Name": "百搭牌",
+    "Description": "获得 <Value1 /> 层<h>庇护</h>。<br />抽 <Value2 /> 张牌。"
+  },
+  "SanaeExileDamage": {
+    "Name": "三色雪绒花",
+    "Description": "当一张牌被自动<h>放逐</h>时，对随机敌人造成 <Value1 /> 点伤害。",
+    "UpgradedDescription": "当一张牌被自动<h>放逐</h>时，对随机敌人造成 <Value1 /> 点伤害。<br />将 <Value2 /> 张<h>守矢护符</h>加入手中。"
+  },
+  "SanaeExilePower": {
+    "Name": "合流",
+    "Description": "获得 <Shield /> 点<h>护盾</h>。<br />选择抽牌堆和弃牌堆中至多 X 张牌<h>放逐</h>。",
+    "UpgradedDescription": "获得 <Shield /> 点<h>护盾</h>。<br />选择抽牌堆和弃牌堆中至多 X 张牌<h>放逐</h>。<br />将等量的<h>守矢护符</h>放入弃牌堆。"
+  },
+  "SanaeGrazeAmulet": {
+    "Name": "风之祝福",
+    "Description": "获得 <Value1 /> 层<h>闪避</h>。<br />获得 <Value2 /> 层<h>护身符</h>。"
+  },
+  "SanaeGrazeWard": {
+    "Name": "神之风盾",
+    "Description": "当<PlayerName /><h>闪避</h>一次攻击时，获得 <Value1 /> 层<h>庇护</h>。<br />获得 <Value2 /> <h>闪避</h>。"
+  },
+  "SanaeHisouHead": {
+    "Name": "神秘机械生物非想天则",
+    "Description": "如果所有<h>神秘机械生物</h>牌均在手中，<h>放逐</h>所有<h>神秘机械生物</h>牌，击败所有敌人。<br />否则，从 <Value1 /> 张<h>神秘机械生物</h>牌中选择 1 张加入手中，然后结束<PlayerName />的回合。",
+    "UpgradedDescription": "如果所有<h>神秘机械生物</h>牌均在手中，<h>放逐</h>所有<h>神秘机械生物</h>牌，击败所有敌人。<br />否则，从 <Value1 /> 张已升级的<h>神秘机械生物</h>牌中选择 1 张加入手中，然后结束<PlayerName />的回合。"
+  },
+  "SanaeHisouLeftArm": {
+    "Name": "神秘机械生物的左臂",
+    "Description": "<h>回合结束时</h>：将 <Value1 /> 张<h>寂静月光</h>放入弃牌堆。"
+  },
+  "SanaeHisouLeftLeg": {
+    "Name": "神秘机械生物的左腿",
+    "Description": "<h>回合结束时</h>：获得 <Value1 /> 层<h>脆弱</h>。",
+    "UpgradedDescription": "<h>回合结束时</h>：获得 <Value1 /> 层<h>虚弱</h>。"
+  },
+  "SanaeHisouRightArm": {
+    "Name": "神秘机械生物的右臂",
+    "Description": "<h>回合结束时</h>：受到 <Value1 /> 点伤害。"
+  },
+  "SanaeHisouRightLeg": {
+    "Name": "神秘机械生物的右腿",
+    "Description": "<h>回合结束时</h>：<h>透支</h> <Value1 />。"
+  },
+  "SanaeKanakoFriend": {
+    "Name": "圣风之神神奈子",
+    "PassiveDescription": "对生命值最高的敌人造成 <Damage /> 点攻击伤害。",
+    "UpgradedPassiveDescription": "对生命值最高的敌人造成 <Damage /> 点攻击伤害。"
+  },
+  "SanaeLifeAmulet": {
+    "Name": "守护仪式",
+    "Description": "失去 <Value1 /> 点生命。<br />获得 <Shield /> 点<h>护盾</h>。<br />获得 <Value2 /> 层<h>护身符</h>。"
+  },
+  "SanaeLifeStatus": {
+    "Name": "呱太帽子戏法",
+    "Description": "获得 <Value1 /> 点最大生命。<br />将手牌，抽牌堆和/或弃牌堆中随机 <Value2 /> 张牌变形为<h>青蛙</h>。"
+  },
+  "SanaeManaRandom": {
+    "Name": "空中落物的奇迹",
+    "Description": "将 <Value1 /> 张法力总数不大于 4 点的随机卡牌加入手中。这些牌具有<h>虚无</h>，费用为<Mana />。",
+    "UpgradedDescription": "将 <Value1 /> 张法力总数不大于 4 点的<h>升级</h>后的随机卡牌加入手中。这些牌具有<h>虚无</h>，费用为<Mana />。"
+  },
+  "SanaeManaShuffle": {
+    "Name": "携带池塘水",
+    "Description": "<h>被放逐时</h>：获得<Mana />。<br />洗牌时从<h>放逐</h>区回到手中。"
+  },
+  "SanaeManaSynergy": {
+    "Name": "神秘果",
+    "Description": "<h>每支付<ManaW /></h>：获得<ManaU /><ManaG />。 <br /><h>每支付<ManaU /></h>：获得<ManaW /><ManaG />。<br /><h>透支</h> <Value1 />。",
+    "UpgradedDescription": "<h>每支付<ManaW /></h>：获得 <ManaU /><ManaG />。 <br /><h>每支付<ManaU /> </h>：获得<ManaW /><ManaG />。 <br /><h>每支付<ManaG /></h>：获得 <ManaW /><ManaU />。<br /><h>透支</h> <Value1 />。"
+  },
+  "SanaeManaTemp": {
+    "Name": "绀色蛇形发带",
+    "Description": "获得 <Value1 /> 点<h>暂得灵力</h>。<br />如果手中至少有 <Value3 /> 张牌，将 <Value2 /> 点<h>暂得灵力</h>转变成<h>灵力</h>，并抽 <Value2 /> 张牌。"
+  },
+  "SanaeManaTurbo": {
+    "Name": "月光湖",
+    "Description": "获得<Mana />。<br />将 <Value1 /> 张<h>寂静月光</h>放入弃牌堆。"
+  },
+  "SanaeMiracleAbility": {
+    "Name": "奇迹五芒星",
+    "Description": "从 <Value1 /> 张罕见能力牌中选择 1 张加入手中，它具有<h>回响</h>和<h>虚无</h>。",
+    "UpgradedDescription": "从 <Value1 /> 张稀有能力牌或 <Value1 /> 张罕见能力牌中选择 1 张加入手中，它具有<h>回响</h>和<h>虚无</h>。"
+  },
+  "SanaeMoneyWard": {
+    "Name": "守护商业繁荣",
+    "Description": "获得 <Value1 /> 层<h>庇护</h>。<br />获得 <Value2 /> 点<Money />。<br />获得 <Value3 /> 点随机法力。"
+  },
+  "SanaeOrderShuffle": {
+    "Name": "碎片化的观察力",
+    "Description": "获得<Mana />。<br />可以以实际顺序查看抽牌堆。<br />当一张非技能牌被打出后，重洗抽牌堆。"
+  },
+  "SanaePowerOmikuji": {
+    "Name": "御神签奖励",
+    "Description": "如果<PlayerName />拥有<Power />失去 <Value1 /> 点<Power />，提升<PlayerName />的符卡的伤害 <Value2 /> 点。"
+  },
+  "SanaePowerPotato": {
+    "Name": "现代娱乐",
+    "Description": "战斗结束后，获得 <Value1 /> 点<Power />。"
+  },
+  "SanaePowerTemp": {
+    "Name": "力量测试",
+    "Description": "获得 <Value1 /> 点<h>火力</h>。<br />获得 <Value1 /> 点<Power />。<br /><PlayerName />的下个回合开始时，失去 <Value1 /> 点<h>火力</h>。"
+  },
+  "SanaeReimuAbility": {
+    "Name": "神社对决",
+    "Description": "从 <Value1 /> 张随机的灵梦稀有能力牌中选择 1 张加入手中，它暂塑为<Mana />，具有<h>虚无</h>。<br /><h>透支</h> <Value2 />。"
+  },
+  "SanaeScryPower": {
+    "Name": "巧妙的预见",
+    "Description": "占卜 <Scry />。<br /><h>初见</h>：获得 <Value1 /> 点<Power />。",
+    "UpgradedDescription": "占卜 <Scry />。<br /><h>初见</h>：获得 <Value1 /> 点<Power />。本场战斗中<SelfName />的费用减少<Mana />。"
+  },
+  "SanaeScryReturn": {
+    "Name": "彻夜亮光",
+    "Description": "占卜 <Scry />。<br />如果抽牌堆为空，将弃牌堆中的一张牌移回手中。"
+  },
+  "SanaeScryShuffle": {
+    "Name": "预告未来",
+    "Description": "重洗抽牌堆。<br />占卜 <Scry />。"
+  },
+  "SanaeSpellDamage": {
+    "Name": "绿色奇术",
+    "Description": "恢复 <Value1 /> 点生命。<br />使用符卡时，对随机敌人造成 8 点攻击伤害 <Value2 /> 次。"
+  },
+  "SanaeSpellMana": {
+    "Name": "网络阴谋",
+    "Description": "<PlayerName />使用符卡后，获得<Mana />。<br />结束<PlayerName />的回合，然后获得一个额外的回合。<br /><h>时间有限</h><Mana1 />。",
+    "UpgradedDescription": "获得 <Value2 /> 点<Power />。<br /><PlayerName />使用符卡后，获得<Mana />。<br />结束<PlayerName />的回合，然后获得一个额外的回合。<br /><h>时间有限</h><Mana1 />。"
+  },
+  "SanaeSpellPower": {
+    "Name": "短暂的信仰",
+    "Description": "失去 <Value1 /> 点生命。<br />获得 <Value2 /> 点<Power />。<br /><PlayerName />的下个回合开始时，失去 100 点<Power />。"
+  },
+  "SanaeSpiritDebuff": {
+    "Name": "仓促的祈祷者们",
+    "Description": "获得 <Value1 /> 点<h>灵力</h>。<br /><PlayerName />的回合开始时，失去 <Value2 /> 点<h>灵力</h>。"
+  },
+  "SanaeSpiritMana": {
+    "Name": "召唤师练习",
+    "Description": "<PlayerName />的两个回合后的回合开始时，获得 <Value1 /> 点<h>灵力</h>，将一张<h>光芒</h>加入手中。",
+    "UpgradedDescription": "<PlayerName />的下个回合开始时，获得 <Value1 /> 点<h>灵力</h>，将一张<h>光芒</h>加入手中。"
+  },
+  "SanaeSpiritShuffle": {
+    "Name": "灵魂搜索",
+    "Description": "获得 <Value1 /> 点<h>暂得灵力</h>。<br />将弃牌堆洗入抽牌堆。<br />抽 <Value2 /> 张牌。"
+  },
+  "SanaeSpiritTalisman": {
+    "Name": "弘安东风谷",
+    "Description": "获得 <Value1 /> 点<h>灵力</h>。<br /><h>抉择</h>：获得 <Value2 /> 层<h>庇护</h>，或将 <Value2 /> 张<h>守矢护符</h>加入手中。"
+  },
+  "SanaeStarterU": {
+    "Name": "鲁莽退治者",
+    "Description": "造成 <Damage /> 点伤害 <Value1 /> 次。<br /><SelfName />击败了一个敌人时，获得 <Value2 /> 点<Power />。这个效果每场战斗只能触发一次。"
+  },
+  "SanaeStarterW": {
+    "Name": "双面冲击",
+    "Description": "造成 <Damage /> 点伤害。<br />你可以将一张<h>眩光</h>加入手中，并改为造成 <Value1 /> 点伤害 <Value2 /> 次。"
+  },
+  "SanaeStatus": {
+    "Name": "守矢护符",
+    "Description": "<h>被放逐时</h>：获得 <Block /> 点<h>格挡</h>和<h>护盾</h>。"
+  },
+  "SanaeStatusSynergy": {
+    "Name": "日晒仪式",
+    "Description": "<h>每支付<Mana /></h>：将 <Value1 /> 张<h>折射日光</h>洗入抽牌堆，它具有<h>自动放逐</h>。<br /><h>每支付<ManaW /><ManaW /></h>：获得 <Value2 /> 点<h>火力</h>。",
+    "UpgradedDescription": "<h>每支付<Mana /></h>：将 <Value1 /> 张<h>折射日光</h>洗入抽牌堆，它具有<h>自动放逐</h>。<br /><h>每支付<ManaW /><ManaW /></h>：获得 <Value2 /> 点<h>火力</h>和<h>灵力</h>。"
+  },
+  "SanaeStatusTalisman": {
+    "Name": "折纸工艺品",
+    "Description": "<PlayerName />的回合结束时，将 <Value1 /> 张<h>守矢护符</h>放入弃牌堆。"
+  },
+  "SanaeSuwakoFriend": {
+    "Name": "狡猾的蛤蟆爱好者诹访子",
+    "PassiveDescription": "将 <Value1 /> 张<h>黑暗残留</h>洗入抽牌堆。",
+    "ActiveDescription": "对随机敌人施加 <Value1 /> 层<h>虚弱</h>。",
+    "Active2Description": "将 1 张随机罕见能力牌加入手中。它暂塑为<Mana />，具有<h>虚无</h>。"
+  },
+  "SanaeToolNews": {
+    "Name": "山顶集会",
+    "Description": "<h>抉择</h>：将 <Value1 /> 张随机的非稀有河童<h>道具</h>牌或 <Value2 /> 张天狗<h>道具</h>牌加入手中。<br />这些牌被标记为<h>复制品</h>，具有<h>自动放逐</h>，使用次数为 1 。"
+  },
+  "SanaeUpgradeWard": {
+    "Name": "地脉聚光灯",
+    "Description": "如果手中有可被升级的牌，随机升级手中的 <Value1 /> 张牌。<br />否则，获得 <Value2 /> 层庇护。<br /><h>充盈</h>：获得<Mana />。"
+  },
+  "SanaeWardAmulet": {
+    "Name": "徽章交换",
+    "Description": "获得 <Value1 /> 层<h>庇护</h>。<br />如果<PlayerName />拥有<h>护身符</h>，失去 <Value3 /> 层<h>护身符</h>并改为获得 <Value2 /> 层<h>庇护</h>。"
+  },
+  "SanaeWardReflect": {
+    "Name": "海豹蜷缩",
+    "Description": "获得 <Value1 /> 层<h>庇护</h>。<br />获得 <Value2 /> 点<h>反射</h>。"
+  },
+  "SanaeWardTalisman": {
+    "Name": "预咏唱咒语",
+    "Description": "当<PlayerName />获得<h>庇护</h>时，获得等量的<Power />。<br />当符卡被使用后，将 <Value1 /> 张<h>守矢护符</h>放入弃牌堆。"
+  },
+  "SanaeWineSplash": {
+    "Name": "酒和水",
+    "Description": "将 1 张<h>小酌怡情</h>和<h>水花</h>加入手中。",
+    "UpgradedDescription": "将 1 张<h>小酌怡情+</h>和<h>水花+</h>加入手中。"
+  },
+
+  "YoumuAgelessObsession": {
+    "Name": "无量劫",
+    "Description": "对所有敌人施加 <Value1 /> 层<h>锁定</h>。<br />敌人受到的<h>锁定</h>翻倍。"
+  },
+  "YoumuAppearingAndDisappearing": {
+    "Name": "大悟显晦",
+    "Description": "选择手牌，弃牌堆和抽牌堆中至多 <Value1 /> 张牌<h>放逐</h>。<br />然后将因此<h>放逐</h>的妖梦<h>虚无</h>牌洗入弃牌堆。"
+  },
+  "YoumuAscensionToBuddhahood": {
+    "Name": "成佛得脱",
+    "Description": "每回合打出的第一张牌具有<h>回响</h>。",
+    "UpgradedDescription": "选择手中至多 <Value2 /> 张牌，赋予它们<h>回响</h>。<br />每回合打出的第一张牌具有<h>回响</h>。"
+  },
+  "YoumuAsuraSword": {
+    "Name": "修罗剑",
+    "Description": "造成 <Damage /> 点伤害 <Value1 /> 次。<br />施加 <Value1 /> 层<h>锁定</h>。"
+  },
+  "YoumuAttackG": {
+    "Name": "天界剑",
+    "Description": "造成 <Damage /> 点伤害。"
+  },
+  "YoumuAttackW": {
+    "Name": "人界剑",
+    "Description": "造成 <Damage /> 点伤害。"
+  },
+  "YoumuBizareness": {
+    "Name": "六道怪奇",
+    "Description": "当一个敌人受到<h>锁定</h>时，还会对其施加 <Value1 /> 层<h>中毒</h>。"
+  },
+  "YoumuBlockG": {
+    "Name": "防御姿态",
+    "Description": "获得 <Block /> 点<h>格挡</h>。"
+  },
+  "YoumuBlockW": {
+    "Name": "魂魄印记",
+    "Description": "获得 <Block /> 点<h>格挡</h>。"
+  },
+  "YoumuBloodOfAsura": {
+    "Name": "修罗之血",
+    "Description": "当一张名为<h>斩</h>的牌被打出时，获得 <Value1 /> 点<h>火力</h>。"
+  },
+  "YoumuBuddhahoodOfFlora": {
+    "Name": "草木成佛",
+    "Description": "获得 <Value1 /> 层<h>闪避</h>。<br /><h>拔刀</h>。"
+  },
+  "YoumuBulletCuttingSpirit": {
+    "Name": "斩断弹幕的心之眼",
+    "Description": "恢复 <Value2 /> 点生命。<br />在本场战斗中<h>升级</h> 一张手牌。",
+    "UpgradedDescription": "恢复 <Value2 /> 点生命。<br />在本场战斗中<h>升级</h>所有手牌。"
+  },
+  "YoumuCircularVicissitude": {
+    "Name": "圆心流转",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br />如果手中有 <Value1 /> 张或更多的名为<h>斩</h>的牌，<h>拔刀</h>。"
+  },
+  "YoumuClearingMind": {
+    "Name": "消除杂念",
+    "Description": "选择至多 <Value1 /> 张手牌，<h>放逐</h>它们，<br />将等量的<h>现世斩</h>加入手中。"
+  },
+  "YoumuClearingTheSixSenses": {
+    "Name": "六根清净",
+    "Description": "移除<PlayerName />的所有负面状态。<br />如果移除了负面状态，获得 <Value1 /> 点<h>火力</h>。"
+  },
+  "YoumuClosedEyeSlash": {
+    "Name": "瞑斩",
+    "Description": "造成 <Damage /> 点伤害。<br />造成未被格挡的伤害时，获得等量的<h>还击</h>。"
+  },
+  "YoumuConventionalTruth": {
+    "Name": "俗谛常驻",
+    "Description": "从<h>放逐</h>区选择至多 <Value1 /> 张牌移回手中。<br /><h>拔刀</h>。"
+  },
+  "YoumuCounterSignalling": {
+    "Name": "反击的狼烟",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br />获得 <Block /> 点<h>还击</h>。<br /><h>成长</h>：额外获得 <Value1 /> 点<h>格挡</h>和<h>还击</h>。"
+  },
+  "YoumuCrescentMoonSlash": {
+    "Name": "弦月斩",
+    "Description": "造成 <Damage /> 点伤害。<br />施加 <Value1 /> 层<h>锁定</h>。<br /><h>拔刀</h>。"
+  },
+  "YoumuDivineSevering": {
+    "Name": "神闪",
+    "Description": "当<PlayerName /><h>拔刀</h>时，在本场战斗中，提升名为<h>斩</h>的卡牌的伤害 <Value1 /> 点。<br /><h>拔刀</h>。",
+    "UpgradedDescription": "当<PlayerName /><h>拔刀</h>时，在本场战斗中，提升名为<h>斩</h>的卡牌的伤害 <Value1 /> 点。<br /><h>拔刀</h>两次。"
+  },
+  "YoumuDualWielder": {
+    "Name": "生命双持者",
+    "Description": "<PlayerName />每施加 <Value1 /> 层<h>锁定</h>，将 <Value2 /> 张<h>现世斩</h>加入手中。",
+    "UpgradedDescription": "将 <Value2 /> 张<h>现世斩</h>加入手中。<br /><PlayerName />每施加 <Value1 /> 层<h>锁定</h>，将 <Value2 /> 张<h>现世斩</h>加入手中。"
+  },
+  "YoumuDyingDeva": {
+    "Name": "天人之衰",
+    "Description": "<h>回合结束时</h>： 对具有<h>锁定</h>的敌人造成 <Value1 /> 点伤害。<br /><h>手牌中</h>： 当敌人受到负面状态时，伤害提高 <Value2 /> 点。"
+  },
+  "YoumuEmbercleave": {
+    "Name": "鞍烬锋",
+    "Description": "<h>手牌中</h>：当一张<h>攻击</h>牌被打出时，本场战斗中，<SelfName />的费用降低<Mana /> 。<br />本回合中，<h>攻击</h>牌造成的伤害翻倍。"
+  },
+  "YoumuFlashOfTheNetherworld": {
+    "Name": "冥府光芒一闪",
+    "Description": "在每个额外回合结束时，此回合中每有一张牌被打出，对所有敌人造成 <Value1 /> 点伤害。<br />结束<PlayerName />的回合。<br />进行一个额外的回合。<br /><h>时间有限</h><Mana />"
+  },
+  "YoumuGhostSlash": {
+    "Name": "幽鬼斩",
+    "Description": "造成 <Damage /> 点伤害。<br /><h>被放逐时</h>： 获得 <Block /> 点<h>格挡</h>。"
+  },
+  "YoumuGreatEnlightenment": {
+    "Name": "大悟",
+    "Description": "<PlayerName />的回合开始时，<h>拔刀</h>。<br /><h>拔刀</h>。"
+  },
+  "YoumuHakugyokurou": {
+    "Name": "白玉楼",
+    "Description": "<h>回合开始时</h>：抽 <Value2 /> 张牌。<br /><h>手牌中</h>： 如果此牌在手中时打出过至少 <Value1 /> 张名为<h>斩</h>的牌，弃掉此牌，对所有敌人造成 <Damage /> 点伤害。"
+  },
+  "YoumuHalfBodyDistillation": {
+    "Name": "半身大悟",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br />从<h>放逐</h>区选择 <Value1 /> 张妖梦的<h>斩</h>牌或<h>虚无</h>牌移回手中。"
+  },
+  "YoumuHeavenlyHalo": {
+    "Name": "天界法轮",
+    "Description": "获得 <Block /> 点<h>格挡</h>.<br />将 <Value1 /> 张<h>现世斩</h>加入手中。"
+  },
+  "YoumuHesitationCuttingSword": {
+    "Name": "斩断迷惘的剑",
+    "Description": "将 <Value1 /> 张<h>现世斩</h>加入手中。<br /><h>拔刀</h>两次。"
+  },
+  "YoumuHesitationSign": {},
+  "YoumuInclemency": {
+    "Name": "众生无情之声",
+    "Description": "所有手牌<h>暂塑</h>为 <Mana />。<br />本回合内无法再抽牌。",
+    "UpgradedDescription": "抽 <Value1 /> 张牌。<br />所有手牌 <h>暂塑</h>为 <Mana />。<br />本回合内无法再抽牌。"
+  },
+  "YoumuInfiniteKalpas": {
+    "Name": "无尽之劫",
+    "Description": "<PlayerName />的回合开始时，将 <Value1 /> 张随机的妖梦<h>虚无</h>牌加入手中。这些卡牌具有<h>放逐</h>。"
+  },
+  "YoumuInnerEye": {
+    "Name": "心眼",
+    "Description": "当一张名为<h>斩</h>的牌被打出后，获得 <Value1 /> 点<h>还击</h>。"
+  },
+  "YoumuInsightfulSword": {
+    "Name": "炯眼剑",
+    "Description": "造成 <Damage /> 点伤害。<br /><h>拔刀</h>。",
+    "UpgradedDescription": "造成 <Damage /> 点伤害。<br />将一张<h>现世斩</h>加入手中。<br /><h>拔刀</h>。"
+  },
+  "YoumuKarmaGust": {
+    "Name": "业之风",
+    "Description": "对所有敌人施加 <Value1 /> 层<h>锁定</h>和<h>虚弱</h>。"
+  },
+  "YoumuKarmicPunishment": {
+    "Name": "无为无策之冥罚",
+    "Description": "获得 <Mana />。<br />抽 <Value1 /> 张牌。<br />获得 <Value2 /> 层<h>锁定</h>。"
+  },
+  "YoumuLivingAndDead": {
+    "Name": "生与死",
+    "Description": "从 <Value1 /> 张妖梦<h>虚无</h>牌中选择 <Value2 /> 张加入手中，这张牌<h>暂塑</h>为<Mana />，具有<h>放逐</h>。"
+  },
+  "YoumuLotusPostureSlash": {},
+  "YoumuMatsuyoiReflecting": {
+    "Name": "待宵反射",
+    "Description": "将<PlayerName />的<h>还击</h>翻倍。<br />如果<PlayerName />的<h>还击</h>小于 <Block /> 点, 改为获得 <Block /> 点<h>还击</h>。"
+  },
+  "YoumuMeikyoShisui": {
+    "Name": "明镜止水",
+    "Description": "获得 <Block /> 点<h>还击</h>。<br />抽 <Value1 /> 张牌。"
+  },
+  "YoumuNetherMeditation": {
+    "Name": "下界冥想",
+    "Description": "选择手牌中的 <Value2 /> 张攻击牌。<br />将它的 <Value1 /> 张<h>复制</h>加入手中。"
+  },
+  "YoumuNextToNone": {
+    "Name": "基本不存在！",
+    "Description": "移除敌人的<h>护盾</h>，<h>格挡</h>，<h>闪避</h>和<h>天衣无缝</h>。<br /><h>拔刀</h>。"
+  },
+  "YoumuPhantomFormation": {
+    "Name": "幻影形态",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br />对所有具有<h>锁定</h>的敌人施加 <Value1 /> 点<h>暂失火力</h>。"
+  },
+  "YoumuPhosphoricSlash": {
+    "Name": "燐气斩",
+    "Description": "造成 <Damage /> 点伤害。<br />如果一名敌人拥有 <Value1 /> 层或更多<h>锁定</h>，获得<Mana />。"
+  },
+  "YoumuPreachingAvici": {
+    "Name": "折伏无间",
+    "Description": "将 <Value1 /> 张<h>现世斩</h>加入手中。<br /><h>被放逐时</h>：<h>拔刀</h>。"
+  },
+  "YoumuPretaSword": {
+    "Name": "饿鬼剑",
+    "Description": "造成 <Damage /> 点伤害。<br />如果一个敌人具有 <Value1 /> 层或更多的<h>锁定</h>，抽 <Value2 /> 张牌。"
+  },
+  "YoumuQuickDraw": {
+    "Name": "快速抽刀",
+    "Description": "抽 <Value1 /> 张牌。<br /><h>拔刀</h>。"
+  },
+  "YoumuReflectionSlash": {
+    "Name": "反射斩",
+    "Description": "造成 <Damage /> 点伤害。<br />如果有敌人的意图为攻击，获得 <Block /> 点<h>还击</h>。"
+  },
+  "YoumuReinforcementOfTheArmy": {},
+  "YoumuSatelliteSlash": {
+    "Name": "卫星斩",
+    "Description": "造成 <Damage /> 点伤害。<br />当<PlayerName /> <h>拔刀</h>时，<SelfName />从弃牌堆回到手中。"
+  },
+  "YoumuScatteredFlowers": {
+    "Name": "散花",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br />对所有敌人造成等同于其<h>锁定</h>层数的伤害。",
+    "UpgradedDescription": "获得 <Block /> 点<h>格挡</h>。<br />对所有敌人造成等同于其<h>锁定</h>层数 <Value1 /> 倍的伤害。"
+  },
+  "YoumuSevenHakus": {
+    "Name": "七魄",
+    "Description": "获得 <Block /> 点<h>格挡</h>。<br />获得 <Block /> 点<h>还击</h>。<br />获得 <Value1 /> 点<h>反射</h>。<br /><h>被放逐时</h>：下回合开始时不会失去格挡。"
+  },
+  "YoumuSilentNirvana": {
+    "Name": "涅槃寂静",
+    "Description": "每当一个敌人受到负面状态，获得 <Value1 /> 点<h>格挡</h>。"
+  },
+  "YoumuSingleThought": {
+    "Name": "一念",
+    "Description": "获得 <Mana />。<br /><h>被放逐时</h>： 下回合获得<ManaEthereal />。"
+  },
+  "YoumuSlashDraw": {
+    "Name": "抽刀斩",
+    "Description": "<h>抽到时</h>：对所有敌人造成 <Damage /> 点伤害，然后<h>放逐</h><SelfName />。"
+  },
+  "YoumuSlashOfDeparture": {
+    "Name": "迷津慈航斩",
+    "Description": "造成 <Damage /> 点伤害。<br /><h>放逐</h>区每有一张牌，伤害提升 <Value1 /> 点。"
+  },
+  "YoumuSlashOfKarmicWind": {
+    "Name": "业风斩",
+    "Description": "造成 <Damage /> 点伤害 <Value1 /> 次。<br /><h>锁定</h>提升<SelfName />的伤害变为2倍。"
+  },
+  "YoumuSlashOfMeditation": {
+    "Name": "冥想斩",
+    "Description": "造成 <Damage /> 点伤害。<br />获得 <Block /> 点<h>格挡</h>。"
+  },
+  "YoumuSlashOfPresent": {
+    "Name": "现世斩",
+    "Description": "造成 <Damage /> 点伤害。"
+  },
+  "YoumuSpiritMediumBind": {
+    "Name": "凭依之缚",
+    "Description": "当一张牌被<h>放逐</h>后，对所有敌人造成 <Value1 /> 点伤害。"
+  },
+  "YoumuSpringWind": {
+    "Name": "春风",
+    "Description": "对所有敌人施加 <Value1 /> 层<h>锁定</h>。<br />抽 <Value2 /> 张牌。"
+  },
+  "YoumuStrangeBird": {
+    "Name": "怪鸟",
+    "Description": "施加 <Value2 /> 层<h>锁定</h>。<br />获得 <Value1 /> 层<h>闪避</h>。"
+  },
+  "YoumuSwordAura": {
+    "Name": "剑气",
+    "Description": "获得 <Value1 /> 点<h>火力</h>。<br /><h>手牌中</h>：当<PlayerName /><h>拔刀</h>，本回合中此牌额外获得 <Value2 /> 点<h>火力</h>。"
+  },
+  "YoumuSwordOfBinding": {
+    "Name": "缠缚剑",
+    "Description": "对所有敌人造成 <Damage /> 点伤害。<br />对所有敌人施加 <Value1 /> 层<h>锁定</h>。"
+  },
+  "YoumuTenKingsRetribution": {
+    "Name": "十王的报应",
+    "Description": "获得 <Block /> 点<h>还击</h>。<br />将<PlayerName />的<h>格挡</h>转化为等量的<h>还击</h>。"
+  },
+  "YoumuThreeKons": {
+    "Name": "三魂",
+    "Description": "抽 <Value1 /> 张牌。获得 <Value1 /> 点<h>带电</h>。<br /><h>被放逐时</h>：下个回合开始时，抽 <Value2 /> 张牌。",
+    "UpgradedDescription": "抽 <Value1 /> 张牌。<br /><h>被放逐时</h>：下个回合开始时，抽 <Value2 /> 张牌。"
+  },
+  "YoumuTransmigrationSlash": {
+    "Name": "生死流转斩",
+    "Description": "造成 <Damage /> 点伤害。<br />施加 <Value1 /> 层<h>锁定</h>。<br /><h>被放逐时</h>: 所有敌人失去 <Value2 /> 点生命。"
+  },
+  "YoumuTurningAngelCut": {
+    "Name": "天女返",
+    "Description": "<h>每支付</h><Mana />：将 <Value1 /> 张<h>现世斩</h>加入手中，<h>暂塑</h>为<ManaEmpty />。<br /><h>每支付</h><ManaGreen />：施加 <Value2 /> 层<h>锁定</h>。"
+  },
+  "YoumuTwoHundredYojana": {
+    "Name": "二百由旬之一闪",
+    "Description": "将 <Value1 /> 张<h>现世斩</h>加入手中。<br /><h>拔刀</h>。"
+  },
+  "YoumuUnendingWinter": {
+    "Name": "无尽的冬天",
+    "Description": "当<PlayerName />造成攻击伤害时，还会施加 <Value1 /> 层<h>寒冷</h>。"
+  },
+  "YoumuWatchtowerSword": {
+    "Name": "“楼观”剑",
+    "Description": "当<PlayerName />造成攻击伤害时，还会施加 <Value1 /> 层<h>锁定</h>。"
+  },
+  "YoumuWaterfowlDance": {
+    "Name": "水禽戏",
+    "Description": "造成 <Damage /> 点伤害 <Value1 /> 次。<br />依本回合中<PlayerName /><h>拔刀</h>的次数获得以下效果：<br /><UnsheathedThreshold1 />+：施加 <Value2 /> 层<h>锁定</h>。<br /><UnsheathedThreshold2 />+：多造成一次伤害。<br /><UnsheathedThreshold3 />+：获得<Mana />。"
+  },
+  "YoumuWheelOfPain": {
+    "Name": "幽明的苦轮",
+    "Description": "对所有敌人施加 <Value1 /> 层<h>锁定</h>。<br /><PlayerName />的回合开始时，对所有敌人施加 <Value1 /> 层<h>锁定</h>。"
+  },
+  "YoumuWickedSoul": {
+    "Name": "恶魂",
+    "Description": "施加 <Value1 /> 层<h>锁定</h>。<br />对敌人施加 <Value2 /> 点<h>失去火力</h>。"
+  },
+  "YoumuYuyukoFriend": {
+    "Name": "华胥的亡灵幽幽子",
+    "Description": "对所有敌人施加 <Value1 /> 层<h>生者必灭之理</h>。",
+    "PassiveDescription": "获得<Mana />。",
+    "ActiveDescription": "对所有敌人施加 <Value2 /> 层<h>虚弱</h>和<h>易伤</h>。",
+    "UltimateDescription": "<PlayerName />的每个回合结束时，对所有敌人施加 <Value1 /> 层<h>生者必灭之理</h>。"
+  }
+}

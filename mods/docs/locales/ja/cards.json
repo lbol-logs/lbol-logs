@@ -1,0 +1,1706 @@
+{
+  "AdvantageousPosition": {
+    "Name": "見下ろす優位",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>臨時火力</h><Value1 />を得る。"
+  },
+  "AirCutter": {
+    "Name": "エアカッター",
+    "Description": "<Damage />ダメージを与える。<br /><Block /><h>ブロック</h>を得る。"
+  },
+  "AlwaysWatching": {
+    "Name": "警戒の眼差し",
+    "Description": "<Shield /><h>バリア</h>を得る。<br /><h>攻撃姿勢</h>の敵がいれば、<Block /><h>ブロック</h>を得る。"
+  },
+  "AutumnView": {
+    "Name": "秋模様",
+    "Description": "このカードが手札に加えられた時、<h>バリア</h><Value1 />を得て<SelfName />を廃棄する。",
+    "UpgradedDescription": "このカードが手札に加えられた時、<h>バリア</h><Value1 />を得て敵全体に<h>臨時火力ダウン</h><Value2 />を与える。<br /><SelfName />を廃棄する。"
+  },
+  "AyaTeammate": {
+    "Name": "天狗記者、文",
+    "Description": "<h>グレイズ</h><Graze />を得る。",
+    "UpgradedDescription": "<h>グレイズ</h><Graze />を得る。",
+    "PassiveDescription": "<h>グレイズ</h>は<PlayerName />のターン開始時失われない。",
+    "UpgradedPassiveDescription": "<h>グレイズ</h>は<PlayerName />のターン開始時失われない。"
+  },
+  "BlackWind": {
+    "Name": "黒い風",
+    "Description": "<h>エアカッター</h>は<h>弱体</h><Value1 />を与えるようになる。<br /><h>エアカッター</h>を<Value2 />枚手札に加える。"
+  },
+  "BladeWarding": {
+    "Name": "拒絶の刃",
+    "Description": "<h>脱力</h><Value1 />を与える。<br /><h>報復</h><Value1 />を得る。<br /><h>エアカッター</h>を1枚手札に加える。"
+  },
+  "BloodScent": {
+    "Name": "血の香り",
+    "Description": "<Damage />ダメージを与える。<br />対象が<h>弱体</h>を持っている時、<h>反射</h><Value1 />を得る。"
+  },
+  "CallToArms": {
+    "Name": "白狼の召集",
+    "Description": "山札か捨て札からカードを<Value1 />枚まで選び、手札に加える。<br />それをアップグレードする。"
+  },
+  "CircularPacing": {
+    "Name": "円環の舞",
+    "Description": "敵がデバフを得る度に、<PlayerName />は<h>バリア</h><Value1 />を得る。"
+  },
+  "CleanKill": {
+    "Name": "無垢な殺し",
+    "Description": "<Damage />ダメージを与える。<br /><h>退治</h>: <Power /><Value1 />を得る。"
+  },
+  "CleavingSwipe": {
+    "Name": "広域斬り",
+    "Description": "すべての敵に<Damage />ダメージを与える。<br />カードを<Value1 />枚引く。",
+    "UpgradedDescription": "すべての敵に<Damage />ダメージを2回与える。<br />カードを<Value1 />枚引く。"
+  },
+  "CollectingMomiji": {
+    "Name": "椛集め",
+    "Description": "手札に<h>楓の葉</h>を<Value1 />枚加える。"
+  },
+  "CrashingWaterBlade": {
+    "Name": "水流の刃",
+    "Description": "<Damage />ダメージを与える。<br />プレイヤーの<h>反射</h><Value1 />ごとに、追加で1回ダメージを与える。"
+  },
+  "CrispFallAir": {
+    "Name": "木枯らし",
+    "Description": "<h>エアカッター</h>を<Value1 />枚手札に加える。<br /><PlayerName />の次のターン開始時、<Mana />を得る。",
+    "UpgradedDescription": "<h>エアカッター</h>を<Value1 />枚手札に加える。<br />次のター開始時、<h>エアカッター</h>を<Value1 />枚手札に加える。<br /><PlayerName />の次のターン開始時、<Mana />を得る。"
+  },
+  "DefensiveStrike": {
+    "Name": "防御の一撃",
+    "Description": "<Damage />ダメージを与える。<br />このカードでブロックされたなかったダメージに等しい<h>ブロック</h>を得る。"
+  },
+  "Destabilize": {
+    "Name": "揺らぐ足元",
+    "Description": "<PlayerName />の攻撃がブロックされなかった度に、<Value1 /><h>ブロック</h>を得る。"
+  },
+  "Distract": {
+    "Name": "狼狽",
+    "Description": "<PlayerName />が敵に攻撃する度に、相手が<h>弱体</h>を持っていれば<h>脱力</h>1を与える。"
+  },
+  "DoubleDown": {
+    "Name": "追い打ち",
+    "Description": "<Damage />ダメージを与える。<br />もし対象が攻撃しようとしていないならば、<Value1 />回追加で攻撃する。"
+  },
+  "ExploitOpenings": {
+    "Name": "隙を突く",
+    "Description": "<h>弱体</h><Value1 />を得る。<br /><h>火力</h><Value1 />を得る。対象の<h>弱体</h>2ごとに、追加で<h>火力</h>1を得る。"
+  },
+  "ExtrasensoryPerception": {
+    "Name": "超感覚的直感",
+    "Description": "<Block /><h>ブロック</h>を得る。敵全体に<h>弱体</h><Value1 />を与える。"
+  },
+  "EyeforanEye": {
+    "Name": "目には目を",
+    "Description": "<Damage />ダメージを与える。<br />対象の敵が<PlayerName />に<Value1 />ダメージを与える。"
+  },
+  "FakeOpening": {
+    "Name": "欺きの隙",
+    "Description": "<h>報復</h><Value1 />を得る。<br /><PlayerName />のターン開始時、"
+  },
+  "FalseWeakness": {
+    "Name": "見せかけの弱点",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>報復</h><Value1 />を得る。"
+  },
+  "FarSight": {
+    "Name": "千里眼",
+    "Description": "<h>反射</h><Value1 />を得る。<br />敵が攻撃しようとしているならば、<Block /><h>ブロック</h>を得る。"
+  },
+  "FeedOnTheWeak": {
+    "Name": "弱者狩り",
+    "Description": "敵が倒れる度、<PlayerName />は<Power /> 10を得て、ライフ4を回復する。"
+  },
+  "FollowUp": {
+    "Name": "追撃",
+    "Description": "<Damage />ダメージを与える。<br />対象が<h>弱体</h>を持っている時、<Mana />を得る。"
+  },
+  "ForestAmbush": {
+    "Name": "森の待ち伏せ",
+    "Description": "<h>報復</h><Value1 />を得る。 このターン<PlayerName />がダメージを与える度に,<PlayerName />の<h>報復</h>に等しいダメージを追加で与える。"
+  },
+  "FrigidSky": {
+    "Name": "極寒の空",
+    "Description": "<h>エアカッター</h>が敵にブロックされなかった度に、その敵に<h>凍結</h>を与える。<br />手札に<h>エアカッター</h>を1枚加える。",
+    "UpgradedDescription": "<h>エアカッター</h>が敵にブロックされなかった度に、その敵に<h>凍結</h>を与える。<br />手札に<h>エアカッター</h>を2枚加える。"
+  },
+  "GentlyCirclingLeaves": {
+    "Name": "木の葉の舞",
+    "Description": "カードを<Value1 />枚引く。<br />このカードで引いた攻撃かスキルカードの1枚につき<h>反射</h><Value2 />を得る。<br />このカードで引いた防御カード1枚につき、<Block /><h>ブロック</h>を得る。"
+  },
+  "GuardBreak": {
+    "Name": "防御突破",
+    "Description": "<Damage />ダメージを<Value1 />回与える。<h>弱体</h><Value1 />を与える。"
+  },
+  "Howl": {
+    "Name": "吠える",
+    "Description": "もし対象が<h>攻撃姿勢</h>ならば、対象は<h>火力</h><Value1 />を失う。"
+  },
+  "HowlingMountainWind": {
+    "Name": "山風のうなり",
+    "Description": "<PlayerName />が<h>弱体</h>を持ってる敵に<h>エアカッター</h>を使うと、その<h>エアカッター</h>のダメージは2倍になる。<br />手札に<h>エアカッター</h>を<Value2 />枚加える。"
+  },
+  "HuntersTrap": {
+    "Name": "狩人の罠",
+    "Description": "<Block /><h>ブロック</h>を得る。<br />手札に<h>エアカッター</h>か<h>楓の葉</h>を1枚加える。"
+  },
+  "HuntingCall": {
+    "Name": "狩りの合図",
+    "Description": "敵全体に<h>弱体</h>2を与える。<br /><h>攻撃姿勢</h>の敵がいればカードを<Value2 />枚引く。"
+  },
+  "HuntingHurricanes": {
+    "Name": "暴風の狩人",
+    "Description": "すべての敵に<Damage />ダメージを与える。<br /><h>廃棄されたエアカッター</h>の1枚につき、<SelfName />は追加でダメージを1回与える。"
+  },
+  "ImageTraining": {
+    "Name": "イメージトレーニング",
+    "Description": "<h>エアカッター</h>を手札に加える。<br />ターン開始時、<h>エアカッター</h>を手札に加える。"
+  },
+  "IndiscriminateRevenge": {
+    "Name": "無情な復讐",
+    "Description": "<h>反射</h>が発動する時、すべての敵に<h>報復</h>に等しいダメージを与える。"
+  },
+  "InstantofContact": {
+    "Name": "睨み合う剣",
+    "Description": "<h>報復</h><Value1 />を得る。<PlayerName />のターン終了時、追加ターンを得る。<br />この追加ターン中に<PlayerName />が<h>ブロック</h>又は<h>バリア</h>を得る度に、<h>報復</h><Value2 />を得る。<br /><h>時間制限<Mana /></h>"
+  },
+  "IronStance": {
+    "Name": "鉄の構え",
+    "Description": "<Block /><h>ブロック</h>と<Value1 /><h>帯電</h>を得る。次のターンまで失われない。"
+  },
+  "LongVigil": {
+    "Name": "長時間の監視",
+    "Description": "手札から<Value1 />枚までカードを<h>廃棄</h>する。<br />このカードで廃棄したカード1枚につき、<Block /><h>ブロック</h>を得る。",
+    "UpgradedDescription": "手札、山札、捨て札から<Value1 />枚までカードを<h>廃棄</h>する。<br />このカードで廃棄したカード1枚につき、<Block /><h>ブロック</h>を得る。"
+  },
+  "LookoutsIntuition": {
+    "Name": "見張りの直感",
+    "Description": "<h>グレイズ</h><Value1 />を得る。<br />対象を選び、その対象が持っている<h>弱体</h><Value2 />ごとに、<Shield /><h>バリア</h>を得る。"
+  },
+  "MapleLeaf": {
+    "Name": "楓の葉",
+    "Description": "<Mana />を得る。"
+  },
+  "MapleLeafFestival": {
+    "Name": "紅葉祭り",
+    "Description": "<PlayerName />のターン開始時、<h>楓の葉</h>を手札に加える。"
+  },
+  "MomijiAttackR": {
+    "Name": "スライス",
+    "Description": "<Damage />ダメージを与える。"
+  },
+  "MomijiAttackW": {
+    "Name": "シールドバッシュ",
+    "Description": "<Damage />ダメージを与える。"
+  },
+  "MomijiBlockR": {
+    "Name": "パリィ",
+    "Description": "<Block /><h>ブロック</h>を得る。"
+  },
+  "MomijiBlockW": {
+    "Name": "警戒",
+    "Description": "<Block /><h>ブロック</h>を得る。"
+  },
+  "MomijiReflect": {
+    "Name": "反省する",
+    "Description": "ライフを<Value1 />回復する。<br /><Shield />バリアを得る。"
+  },
+  "MomijiRiposte": {
+    "Name": "反撃の構え",
+    "Description": "<h>報復</h><Value1 />を得る。"
+  },
+  "MountainsideTrailTracking": {
+    "Name": "山道の追跡",
+    "Description": "プレイヤーのそれぞれのターンの最初に<h>弱体</h>を持ってる敵にダメージを与えた時、<br />カードを<Value1 />枚引く。"
+  },
+  "OverhandBlade": {
+    "Name": "頭上からの一撃",
+    "Description": "<Damage />ダメージを与える。<br />対象が<h>弱体</h>を持っているならば、<h>脱力</h><Value1 />を得る。<br />対象が<h>脱力</h>を持っているならば、<h>弱体</h><Value1 />を得る。        "
+  },
+  "PartingSlice": {
+    "Name": "別れの一刀",
+    "Description": "すべての敵に<Damage />ダメージを与える。<br /><h>攻撃態勢</h>の敵の数ごとに、グレイズ<Value1 />を得る。",
+    "UpgradedDescription": "すべての敵に<Damage />ダメージを2回与える。<br /><h>攻撃態勢</h>の敵の数ごとに、グレイズ<Value1 />を得る。"
+  },
+  "PatientHunter": {
+    "Name": "好機を待つ狩人",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>ブロック保留</h>。"
+  },
+  "Patrol": {
+    "Name": "巡回",
+    "Description": "カードを<Value1 />枚引く。<br />このカードで引いた赤のカードごとに、<h>グレイズ</h><Value2 />を得る。",
+    "UpgradedDescription": "カードを<Value1 />枚引く。<br />このカードで引いた赤のカードか<h>厄災</h>ごとに、<h>グレイズ</h><Value2 />を得る。"
+  },
+  "PlungePool": {
+    "Name": "滝壺",
+    "Description": "<Block /><h>ブロック</h>を得る。<br />追加で<PlayerName />の<h>報復</h>に等しい<h>ブロック</h>を得る。",
+    "UpgradedDescription": "<Shield /><h>バリア</h>を得る。<br />追加で<PlayerName />の<h>報復</h>に等しい<h>バリア</h>を得る。"
+  },
+  "PreparedDefense": {
+    "Name": "万全の防御",
+    "Description": "<h>反射</h><Value1 />を得る。<br />このターンの間、<PlayerName />が持っている<h>反射</h>をすべて<h>帯電</h>に変換する。"
+  },
+  "RabidBite": {
+    "Name": "獣の一噛み",
+    "Description": "<Damage />ダメージを与える。 ライフ<Value1 />を回復する。"
+  },
+  "RagingWaterfall": {
+    "Name": "怒涛の滝",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><PlayerName />の次のターン開始時、追加でカードを<Value1 />枚引く。"
+  },
+  "RecklessStrike": {
+    "Name": "捨て身の一閃",
+    "Description": "<Damage />ダメージを与える。<br /><h>弱体</h><Value1 />を与える。<br /><h>脱力</h><Value2 />を得る。"
+  },
+  "RipApart": {
+    "Name": "裂閃",
+    "Description": "すべての敵に<Damage />ダメージを与える。<br />敵全体に<h>弱体</h><Value1 />",
+    "UpgradedDescription": "すべての敵に<Damage />ダメージを<Value1 />回与える。<br />敵全体に<h>弱体</h><Value1 />"
+  },
+  "ScatteringLeaves": {
+    "Name": "紅葉の舞",
+    "Description": "ランダムな敵に<Damage />ダメージを<Value1 />回与える。"
+  },
+  "SeizeTheMoment": {
+    "Name": "チャンスを掴め",
+    "Description": "<Damage />ダメージを与える。<br />敵の行動により、追加効果を得る。"
+  },
+  "SenseWeakness": {
+    "Name": "弱点感知",
+    "Description": "敵全体に<h>弱体</h><Value1 />を与える。敵が受ける弱体の効果を<Value2 />%増加させる。"
+  },
+  "ShieldCounter": {
+    "Name": "シールドカウンター",
+    "Description": "<h>反射</h><Value2 />を得る。<br /><h>反射</h>か<h>帯電</h>が発動する度に、その対象に<h>弱体</h><Value1 />を与える。"
+  },
+  "SmellofDeath": {
+    "Name": "死を呼ぶ香",
+    "Description": "<h>弱体</h><Value1 />を与える。<br />敵が倒れる時、その最大HPの半分に等しいダメージを他の敵に与える。"
+  },
+  "StandWatch": {
+    "Name": "警備",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><PlayerName />のターン開始時、<Value1 /><h>ブロック</h>を得る。<br /><PlayerName />の次の<Value2 />ターンの開始時、ブロックは失われない。"
+  },
+  "SurgeofPower": {
+    "Name": "力の奔流",
+    "Description": "次にプレイする<Value1 />枚のカードコストが<Mana />になる。"
+  },
+  "TacticalInsight": {
+    "Name": "戦術的考察",
+    "Description": "<Value1 />枚の防御カードから<Value2 />枚を選び、手札に加える。<br />そのコストは<Mana />で<h>廃棄</h>と<h>虚無</h>を持つ。"
+  },
+  "Taunt": {
+    "Name": "嘲弄",
+    "Description": "<h>脱力</h><Value1 />と<h>弱体</h><Value1 />を与える。<br />対象の敵が<PlayerName />に<Value2 />ダメージを与える。"
+  },
+  "TengusForesight": {
+    "Name": "天狗の予知",
+    "Description": "カードを<Value1 />枚引く。<br /><PlayerName />の次のターン開始時、<h>ブロック</h>は失われない。"
+  },
+  "TirelessGuard": {
+    "Name": "不屈の守護",
+    "Description": "<h>反射</h>が発動する度に、<h>反射</h>で与えたダメージの半分の<h>反射</h>を得る。<br /><h>反射</h><Value2 />を得る。"
+  },
+  "TrainingRecord": {
+    "Name": "訓練記録",
+    "Description": "<Damage />ダメージを与える。<br />この戦闘において<SelfName />が最初に使われたカードならば、相手の行動に基づいて<PlayerName />のデッキのカードを1枚アップグレードする。"
+  },
+  "TrapStance": {
+    "Name": "待ち伏せの構え",
+    "Description": "<h>報復</h><Value1 />を得る。<br />それぞれのターン<PlayerName />が最初に攻撃された時、<PlayerName />の<h>報復</h>に等し<h>反射</h>を得る。"
+  },
+  "TwinFang": {
+    "Name": "二つの牙",
+    "Description": "次に<h>反射</h>は発動する時、<h>反射</h>で与えたダメージに等しい<h>反射</h>を得る。"
+  },
+  "VacuumCutter": {
+    "Name": "真空刃",
+    "Description": "<Damage />ダメージを与える。<br />手札に<h>エアカッター</h>を1枚加える。"
+  },
+  "WardingStrike": {
+    "Name": "守りの一撃",
+    "Description": "<Damage />ダメージを与える。<br /><PlayerName />の<h>反射</h>に等しいダメージを追加で与える。"
+  },
+  "WaterfallMeditation": {
+    "Name": "滝の瞑想",
+    "Description": "対象を選ぶ。<br />敵の行動によって効果が変わる。<br />カードを<Value1 />枚引く。"
+  },
+  "WindsweptBlade": {
+    "Name": "吹きさらしの刃",
+    "Description": "<Damage />ダメージを2回与える。<br /><h>報復</h><Value1 />を得る。"
+  },
+  "WoodlandSentry": {
+    "Name": "森の守護者",
+    "Description": "ライフ<Value2 />を回復する。<br /><PlayerName />のターン終了時、手札1枚につき<Value1 /><h>ブロック</h>を得る。"
+  },
+
+  "PatchouliAgniRadiance": {
+    "Name": "アグニレイディアンス",
+    "Description": "<h>火の印</h><Value1 />を得る。<br /><h>詠唱値</h>1につき<h>火の印</h><Value2 />を得る。<br /><h>詠唱</h>"
+  },
+  "PatchouliElementalManipulation": {
+    "Name": "アグニシャイン",
+    "Description": "<Damage />ダメージを<Value2 />回与える。<br /><h>$t(PatchouliElementalManipulation.Sign, { 'context': {{Sign}} })印</h><Value1 />を得る。",
+    "UpgradedDescription": "<Damage />ダメージを<Value2 />回与える。<br /><h>$t(PatchouliElementalManipulation.Sign, { 'context': {{Sign}} })印</h><Value1 />を得る。<br /><h>$t(PatchouliElementalManipulation.Sign, { 'context': {{Sign}} })印</h>の<h>パッシブ</h>効果を発動させる。  ",
+    "Sign_0": "火の",
+    "Sign_1": "水の",
+    "Sign_2": "木の",
+    "Sign_3": "金の",
+    "Sign_4": "土の",
+    "Sign_5": "日の",
+    "Sign_6": "月の"
+  },
+  "PatchouliAgniShine": {
+    "Name": "アグニシャイン",
+    "Description": "<Damage />ダメージを<Value2 />回与える。<br /><h>火の印</h><Value1 />を得る。",
+    "UpgradedDescription": "<Damage />ダメージを<Value2 />回与える。<br /><h>火の印</h><Value1 />を得る。<br /><h>火の印</h>の<h>パッシブ</h>効果を発動させる。  "
+  },
+  "PatchouliArcaneWard": {
+    "Name": "秘術の防壁",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><Value2 /><h>反射</h>を得る。<br /><h>詠唱値</h>1につき、得られる<h>ブロック</h>と<h>反射</h>を<Value1 />増やす。<br /><h>詠唱</h>"
+  },
+  "PatchouliAstronomy": {
+    "Name": "天文学",
+    "Description": "カードを<Value1 />枚引く。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、<Mana />を得る。<br /><h>詠唱</h>"
+  },
+  "PatchouliAstronomyStudy": {
+    "Name": "天文学研究",
+    "Description": "<PlayerName />のターン開始時、手札に<h>天文学</h>が無い場合、<h>天文学</h>を1枚手札に加える。"
+  },
+  "PatchouliAttackB": {
+    "Name": "魔力の源",
+    "Description": "<Damage />ダメージを与える。"
+  },
+  "PatchouliAttackU": {
+    "Name": "ウォータードラゴン",
+    "Description": "<Damage />ダメージを与える。"
+  },
+  "PatchouliAutumnBlade": {
+    "Name": "オータムエッジ",
+    "Description": "<Damage />ダメージを与える。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、<h>庇護</h><Value1 />を得る。<br /><h>詠唱値</h><BoostThreshold2 />以上なら、<h>加護</h><Value2 />を得る。<br /><h>詠唱</h>"
+  },
+  "PatchouliAwakenedSpellbook": {
+    "Name": "覚醒する魔導書",
+    "Description": "<h>詠唱値</h><Value2 />以上の<h>詠唱</h>カードをプレイするたび、<h>火の印</h><Value1 />を得る。<br /><PlayerName />が<h>印</h>を得るたび、手札の<h>詠唱</h>カードの<h>詠唱値</h>を1増やす。"
+  },
+  "PatchouliBlockB": {
+    "Name": "ムーンライトシャドウ",
+    "Description": "<Block /><h>ブロック</h>を得る。"
+  },
+  "PatchouliBlockU": {
+    "Name": "真夜中の研究",
+    "Description": "<Block /><h>ブロック</h>を得る。"
+  },
+  "PatchouliBuryInLake": {
+    "Name": "ベリーインレイク",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>水の印</h><Value1 />を得る。",
+    "UpgradedDescription": "<Shield /><h>バリア</h>を得る。<br /><h>水の印</h><Value1 />を得る。"
+  },
+  "PatchouliCircadianRhythm": {
+    "Name": "概日リズム",
+    "Description": "<h>日の印</h><Value1 />を得る。<br /><h>日の印</h>もしくは<h>月の印</h>の<h>アクティブ</h>効果が発動した場合、もう片方の<h>印</h>を<h>アクティブ</h>効果が発動した時の<h>印</h>のレベルだけ得る。"
+  },
+  "PatchouliConcentration": {
+    "Name": "集中",
+    "Description": "カードを<Value1 />枚引く。<br />手札の<h>詠唱</h>カードの<h>詠唱値</h>を1増やす。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、<Value2 /><h>ブロック</h>を得る。<br /><h>詠唱値</h><BoostThreshold2 />以上なら、追加で<Value2 /><h>ブロック</h>を得る。<br /><h>詠唱</h>"
+  },
+  "PatchouliCondensedBubble": {
+    "Name": "コンデンスドバブル",
+    "Description": "<Damage />ダメージを<Value2 />回与える。<br /><h>詠唱値</h>1につき、与えるダメージを<Value1 />増やす。<br /><h>詠唱</h>"
+  },
+  "PatchouliCounterspell": {
+    "Name": "対抗呪文",
+    "Description": "<h>カウンター:攻撃</h>:<h>グレイズ</h><Value1 />を得る。<br /><h>カウンター:精密攻撃</h>:<Block />ブロックを得る。<br /><h>カウンター:スペルカード</h>:<Block /><h>バリア</h>を得る。"
+  },
+  "PatchouliCountersquall": {
+    "Name": "対抗突風",
+    "Description": "<h>カウンター:攻撃</h><Damage />ダメージを与え、<Block /><h>ブロック</h>を得る。<br /><h>カウンター:デバフ</h>:<Value1 /><h>加護</h>を得る。"
+  },
+  "PatchouliCurrentConductor": {
+    "Name": "水流の指揮者",
+    "Description": "<h>水の印</h>の効果が発動するたび、<h>溺水</h><Value2 />を敵全体に与え、<h>溺水</h>の効果を発動させる。<br /><h>水の印</h><Value1 />を得る。"
+  },
+  "PatchouliDiamondHardness": {
+    "Name": "ダイアモンドハードネス",
+    "Description": "<Shield /><h>バリア</h>を得る。<br /><Value1 /><h>反射</h>を得る。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、<h>帯電</h><Value2 />を得る。<br /><h>詠唱</h>"
+  },
+  "PatchouliDiamondRing": {
+    "Name": "ロイヤルダイアモンドリング",
+    "Description": "<Damage />ダメージを与える。<br /><h>チョイス</h>:<h>日の印</h><Value1 />を得る、もしくは<h>月の印</h><Value1 />を得る。  "
+  },
+  "PatchouliDimensionShift": {
+    "Name": "次元の超越",
+    "Description": "<PlayerName />はターンを終了し、追加ターンを得る。<h>時間制限</h><Mana1 />。<br /><h>詠唱値</h>1につき、このカードのコストを<Mana />減らす。<br /><h>詠唱</h>",
+    "UpgradedDescription": "<PlayerName />はターンを終了し、追加ターンを得る。<br /><h>詠唱値</h>1につき、このカードのコストを<Mana />減らす。<br /><h>詠唱</h>"
+  },
+  "PatchouliDistortionField": {
+    "Name": "歪曲フィールド",
+    "Description": "<h>グレイズ</h><Value1 />を得る。<br />手札の<h>詠唱</h>カードの<h>詠唱値</h>を1増やす。",
+    "UpgradedDescription": "<h>グレイズ</h><Value1 />を得る。<br />手札の<h>詠唱</h>カードの<h>詠唱値</h>を2増やす。"
+  },
+  "PatchouliDoyouSpear": {
+    "Name": "ドヨースピア",
+    "Description": "<Damage />ダメージを与える。<br /><SelfName />で敵を撃破した場合、<Mana />を得る。  "
+  },
+  "PatchouliElementalHarvester": {
+    "Name": "エレメンタルハーベスター",
+    "Description": "<Mana />を得る。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、追加で<BonusMana />を得る。<br /><h>詠唱</h>"
+  },
+  "PatchouliElementalTriangle": {
+    "Name": "三大属性",
+    "Description": "3枚の<h>属性魔法</h>から1枚まで選び、その効果を得る。<br />その効果で得た<h>印</h>の<h>パッシブ</h>効果を発動する。"
+  },
+  "PatchouliElementalTriangleFire": {
+    "Name": "火の魔法",
+    "Description": "<h>火の印</h><Value1 />を得る。"
+  },
+  "PatchouliElementalTriangleWater": {
+    "Name": "水の魔法",
+    "Description": "<h>水の印</h><Value1 />を得る。"
+  },
+  "PatchouliElementalTriangleWood": {
+    "Name": "風の魔法",
+    "Description": "<h>木の印</h><Value1 />を得る。"
+  },
+  "PatchouliEmeraldMegalith": {
+    "Name": "エメラルドメガリス",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><PlayerName />が<Value1 />種類以上の<h>印</h>を得ている場合、得ている<h>印</h>の<h>パッシブ</h>効果を発動する。"
+  },
+  "PatchouliEnigmaticMagic": {
+    "Name": "奇怪な魔法",
+    "Description": "<PlayerName />が<h>印</h>を得るたび、<Value1 /><h>ブロック</h>を得る。"
+  },
+  "PatchouliEveryAngleShot": {
+    "Name": "エブリアングルショット",
+    "Description": "<Damage />ダメージを与える。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、使用されて<h>廃棄</h>されたこのカードを次の<PlayerName />のターン開始時に廃棄場から手札に戻す。<br /><h>詠唱</h>"
+  },
+  "PatchouliFatesHand": {
+    "Name": "運命の手",
+    "Description": "カードを<Value1 />枚引く。<br /><h>詠唱値</h>1につき、このカードのコストを<Mana />減らす。<br /><h>詠唱</h>"
+  },
+  "PatchouliFiveSeasons": {
+    "Name": "ファイブシーズン",
+    "Description": "<PlayerName />のターン終了時に、得ている<h>印</h>の<h>パッシブ</h>効果を発動させる。"
+  },
+  "PatchouliFlashOfSpring": {
+    "Name": "フラッシュオブスプリング",
+    "Description": "カードを<Value1 />枚引く。<br /><h>木の印</h><Value2 />を得る。"
+  },
+  "PatchouliForestBlaze": {
+    "Name": "フォレストブレイズ",
+    "Description": "<Damage />ダメージを与える。<br /><h>火の印</h><Value1 />を得る。<br /><h>木の印</h><Value1 />を得る。<br /><PlayerName />が得ている<h>印</h>の種類と等しい数だけ、このカードのコストを<Mana />減らす。"
+  },
+  "PatchouliGingerDust": {
+    "Name": "ジンジャガスト",
+    "Description": "カードを<Value2 />枚引く。<br /><h>土の印</h><Value1 />を得る。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、<h>金の印</h><Value1 />を得る。<br /><h>詠唱</h>"
+  },
+  "PatchouliGirlOfKnowledge": {
+    "Name": "知識と日陰の少女",
+    "Description": "<h>知力</h><Value1 />を得る。"
+  },
+  "PatchouliGirlOfShade": {
+    "Name": "得体の知れない魔法の元",
+    "Description": "<h>暗闇</h>を<Value1 />枚捨て札に加える。それらは<h>補充</h>を持つ。<br /><h>厄災</h>または<h>状態異常</h>カードを<h>廃棄</h>した時、<h>火力</h><Value2 />と<h>霊力</h><Value2 />を得る。"
+  },
+  "PatchouliGrandIncantation": {
+    "Name": "堂々たる呪文",
+    "Description": "<h>詠唱</h>カードがプレイされるたび、最もライフの多い敵にそのカードの<h>詠唱値</h>に等しい数のダメージを与える。"
+  },
+  "PatchouliGreenStorm": {
+    "Name": "グリーンストーム",
+    "Description": "<Damage />ダメージを与える。<br /><h>詠唱値</h>2以上なら、<h>詠唱値</h>1につきダメージを与える回数を+1する。<br /><h>詠唱</h>"
+  },
+  "PatchouliHydrogenousProminence": {
+    "Name": "ハイドロジェナスプロミネンス",
+    "Description": "<Shield /><h>バリア</h>を得る。<br /><h>日の印</h><Value1 />を得る。<br /><h>水の印</h><Value1 />を得る。<br />このカードのコストは、得ている<h>印</h>のレベルの合計と等しい数の<Mana />だけ減る。  "
+  },
+  "PatchouliIntruderSecurity": {
+    "Name": "侵入者対策",
+    "Description": "<Block /><h>ブロック</h>を得る。<br />捨て札から<Value1 />枚までのカードを選んで手札に戻す。"
+  },
+  "PatchouliJellyfishPrincess": {
+    "Name": "ジェリーフィッシュプリンセス",
+    "Description": "<h><ManaU />につき</h>:敵全体に<Damage />ダメージを与える。<br /><h><ManaB />につき</h>:<h>月の印</h><Value1 />を得る。"
+  },
+  "PatchouliKnowledgeSeeker": {
+    "Name": "知識の探求者",
+    "Description": "<h>知力</h><Value1 />を得る。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、このカードは使用しても<h>廃棄</h>されない。<br /><h>詠唱</h>"
+  },
+  "PatchouliKoakumaFriend": {
+    "Name": "名も無き小さな悪魔、小悪魔",
+    "Description": "<h>火の印</h><Value1 />を得る。",
+    "UpgradedDescription": "<h>火の印</h><Value1 />を得る。",
+    "PassiveDescription": "カードを<Value1 />枚引く。",
+    "UpgradedPassiveDescription": "カードを<Value1 />枚引く。",
+    "ActiveDescription": "<h>怪奇</h>を手札に加える。",
+    "UpgradedActiveDescription": "<h>幻虹</h>を手札に加える。",
+    "UltimateDescription": "戦闘終了まで<h>火の印</h>のダメージを1倍分増やす。"
+  },
+  "PatchouliKrakenWave": {
+    "Name": "クラーケンウェーブ",
+    "Description": "<h>詠唱値</h><BoostThreshold1 />になった時、敵全体に<Value1 />ダメージを与え、<PlayerName />は<Value1 /><h>ブロック</h>を得る。その後このカードは捨てられ、<h>詠唱値</h>は0になる。<br /><h>詠唱</h>"
+  },
+  "PatchouliLavaCromlech": {
+    "Name": "ラーヴァクロムレク",
+    "Description": "<Damage />ダメージを与える。<br />この戦闘で得た<h>印</h>のレベルの合計分、このカードのダメージを<Value1 />増やす。"
+  },
+  "PatchouliMagicalResearch": {
+    "Name": "魔法の研究",
+    "Description": "<Value1 />枚のランダムな<h>詠唱</h>カードから1枚選び、手札に加える。<br />それは<h>臨時コスト</h><Mana />となり、<h>廃棄</h>、<h>虚無</h>を持つ。<br />その後、手札の<h>詠唱</h>カードの<h>詠唱値</h>を1増やす。"
+  },
+  "PatchouliManaDrain": {
+    "Name": "マナ吸収",
+    "Description": "<Damage />ダメージを与える。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、<h>脱力</h><Value1 />を与える。<br /><h>詠唱</h>"
+  },
+  "PatchouliMercuryPoisoning": {
+    "Name": "マーキュリポイズン",
+    "Description": "<h>金の印</h><Value3 />を得る。<br /><h>チョイス</h>:<h>毒</h><Value1 />を与える。もしくは<h>脱力</h><Value2 />を与える。"
+  },
+  "PatchouliMetalFatigue": {
+    "Name": "メタルファティーグ",
+    "Description": "<h>臨時火力ダウン</h><Value2 />を与える。<br /><h>金の印</h><Value1 />を得る。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、<h>火力ダウン</h><Value2 />を与え、このカードを<h>廃棄</h>する。<br /><h>詠唱</h>"
+  },
+  "PatchouliMoongazing": {
+    "Name": "観月",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>天文学</h>を<Value1 />枚手札に加える。",
+    "UpgradedDescription": "<Block /><h>ブロック</h>を得る。<br /><h>天文学</h>を<Value1 />枚手札に加える。<br />手札の<h>詠唱</h>カードの<h>詠唱値</h>を1増やす。"
+  },
+  "PatchouliMoonlitChill": {
+    "Name": "寒月",
+    "Description": "<h>火力</h><Value1 />と<h>霊力</h><Value2 />を得る。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、追加で<h>火力</h><Value2 />を得る。<br /><h>詠唱値</h><BoostThreshold2 />以上なら、追加で<h>霊力</h><Value1 />を得る。<br /><h>詠唱</h>"
+  },
+  "PatchouliNegate": {
+    "Name": "否認",
+    "Description": "<h>カウンター:攻撃</h><Block /><h>ブロック</h>を得る。<br /><h>カウンター:状態異常</h><Value1 /><h>庇護</h>を得る。"
+  },
+  "PatchouliNoachianDeluge": {
+    "Name": "ノアの大洪水",
+    "Description": "<Damage />ダメージを与える。<br /><SelfName />の<h>詠唱値</h>上限は無い。<br /><h>詠唱値</h>1につきダメージを<Value1 />増やす。<br /><h>詠唱</h>"
+  },
+  "PatchouliObservatory": {
+    "Name": "天文台",
+    "Description": "<Damage />ダメージを与える。<br /><h>天文学</h>を<Value1 />枚手札に加える。",
+    "UpgradedDescription": "<Damage />ダメージを与える。<br /><h>天文学</h>を<Value1 />枚手札に加える。<br />手札の<h>詠唱</h>カードの<h>詠唱値</h>を1増やす。"
+  },
+  "PatchouliOneWeekGirl": {
+    "Name": "一週間少女",
+    "Description": "<h>火の印</h><Value1 />を得る。<br /><PlayerName />のターン開始時、<h>印</h><Value1 />を順番に得る。"
+  },
+  "PatchouliPhilosopherStone": {
+    "Name": "賢者の石",
+    "Description": "<h>火の印</h><Value1 />を得る。<br /><h>水の印</h><Value1 />を得る。<br /><h>木の印</h><Value1 />を得る。<br /><h>金の印</h><Value1 />を得る。<br /><h>土の印</h><Value1 />を得る。"
+  },
+  "PatchouliPhlogisticPillar": {
+    "Name": "フロギスティックピラー",
+    "Description": "<PlayerName />が<h>詠唱</h>カードを使用するたび、<Value1 /><h>バリア</h>を得る。"
+  },
+  "PatchouliPhlogisticRain": {
+    "Name": "フロギスティックレイン",
+    "Description": "<Damage />ダメージを<Value2 />回与える。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、<Mana />を得て、カードを<Value1 />枚引く。<br /><h>詠唱</h>"
+  },
+  "PatchouliPhotosynthesis": {
+    "Name": "光合成",
+    "Description": "手札のカードを<Value2 />枚まで<h>廃棄</h>する。<br /><h>廃棄</h>した枚数と同じ数の<h>日の印</h>を得る。  "
+  },
+  "PatchouliRapidCharge": {
+    "Name": "速読術",
+    "Description": "得ている<h>印</h>の<h>パッシブ</h>効果を発動する。<br /><h>充填</h>:<Mana />を得る。",
+    "UpgradedDescription": "得ている<h>印</h>の<h>パッシブ</h>効果を2回発動する。<br /><h>充填</h>:<Mana />を得る。"
+  },
+  "PatchouliRingOfAgni": {
+    "Name": "リングオブアグニ",
+    "Description": "<Damage />ダメージを与える。<br /><h><Mana />につき</h>:<Value1 />ダメージ増やす。<br /><h>詠唱値</h>1につき<Value1 />ダメージ増やす。<br /><h>詠唱</h>"
+  },
+  "PatchouliRoyalFlare": {
+    "Name": "ロイヤルフレア",
+    "Description": "<h>手札効果</h>:<PlayerName />のターン開始時、<h>臨時知力アップ</h><Value1 />を得る。<br /><h>手札効果</h>:<PlayerName />が<Value2 />回<h>印</h>を得た時、敵全体に<Damage />ダメージを与え、このカードを捨てる。"
+  },
+  "PatchouliSaintElmoPillar": {
+    "Name": "セントエルモピラー",
+    "Description": "<h>金の印</h><Value1 />を得る。<br /><PlayerName />の<h>反射</h>が発動した場合、発動した<h>反射</h>分に等しいダメージを敵全体に与える。"
+  },
+  "PatchouliSakuyaFriend": {
+    "Name": "紅魔館のメイド、十六夜咲夜",
+    "Description": "<h>投げナイフ</h>を<Value1 />枚手札に加える。",
+    "UpgradedDescription": "<h>投げナイフ+</h>を<Value1 />枚手札に加える。",
+    "PassiveDescription": "<h>投げナイフ</h>を<Value1 />枚手札に加える。",
+    "UpgradedPassiveDescription": "<h>投げナイフ</h>を<Value1 />枚手札に加える。",
+    "ActiveDescription": "<h>グレイズ</h><Value1 />を得る。",
+    "UltimateDescription": "<PlayerName />はターンを終了し、追加ターンを得る。"
+  },
+  "PatchouliSatelliteHimawari": {
+    "Name": "サテライトヒマワリ",
+    "Description": "<h>木の印</h><Value1 />を得る。<br /><h>木の印</h>の<h>アクティブ</h>効果が発動する時、<h>アクティブ</h>効果で与える予定のダメージ数値を蓄積する。<h>木の印</h>の<h>アクティブ</h>ダメージは、このカードの効果で蓄積している数値分増える。"
+  },
+  "PatchouliSilentSelene": {
+    "Name": "サイレントセレナ",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>月の印</h><Value1 />を得る。  "
+  },
+  "PatchouliSilverDragon": {
+    "Name": "シルバードラゴン",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>金の印</h><Value1 />を得る。",
+    "UpgradedDescription": "<Block /><h>ブロック</h>を得る。<br /><h>金の印</h><Value1 />を得る。<br /><h>金の印</h>の<h>パッシブ</h>効果を発動する。 "
+  },
+  "PatchouliSpellCreation": {
+    "Name": "呪文創造",
+    "Description": "<Damage />ダメージを与える。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、4枚の<h>魔法</h>から1枚まで選び、その効果を得る。<br /><h>詠唱値</h><BoostThreshold2 />以上なら、2枚まで選べる。<br /><h>詠唱値</h><BoostThreshold3 />以上なら、3枚まで選べる。<br /><h>詠唱</h>",
+    "UpgradedDescription": "<Damage />ダメージを与える。<br />4枚の<h>魔法</h>から1枚まで選び、その効果を得る。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、2枚まで選べる。<br /><h>詠唱値</h><BoostThreshold2 />以上なら、3枚まで選べる。<br /><h>詠唱値</h><BoostThreshold3 />以上なら、4枚まで選べる。<br /><h>詠唱</h>"
+  },
+  "PatchouliSpellCreationBlock": {
+    "Name": "防御魔法",
+    "Description": "<Block /><h>ブロック</h>を得る。"
+  },
+  "PatchouliSpellCreationDraw": {
+    "Name": "魔力回復",
+    "Description": "カードを<Value1 />枚引く。"
+  },
+  "PatchouliSpellCreationFire": {
+    "Name": "攻撃魔法",
+    "Description": "<h>火の印</h><Value1 />を得る。"
+  },
+  "PatchouliSpellCreationWeak": {
+    "Name": "弱体魔法",
+    "Description": "<h>脱力</h><Value2 />を敵全体に与える。"
+  },
+  "PatchouliSpellDuplication": {
+    "Name": "呪文複製",
+    "Description": "手札を1枚選び、そのカードのコピーを1枚手札に加える。<br />それは<h>臨時コスト</h><Mana />となり、<h>廃棄</h>と<h>虚無</h>を持つ。<br /><h>詠唱</h>カードをコピーした場合、<h>詠唱値</h>もコピーする。"
+  },
+  "PatchouliSpellMastery": {
+    "Name": "魔巧",
+    "Description": "<Damage />ダメージを与える。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、<h>水沫</h>を手札に加える。<br /><h>詠唱値</h><BoostThreshold2 />以上なら、<h>水沫+</h>を代わりに手札に加える。<br /><h>詠唱</h>",
+    "UpgradedDescription": "<Damage />ダメージを与える。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、<h>幻虹</h>を手札に加える。<br /><h>詠唱値</h><BoostThreshold2 />以上なら、<h>幻虹+</h>を代わりに手札に加える。<br /><h>詠唱</h>"
+  },
+  "PatchouliSpellPowerGrasp": {
+    "Name": "魔力掌握",
+    "Description": "<PlayerName />のターン開始時、手札の<h>詠唱</h>カードの<h>詠唱値</h>を1増やす。",
+    "UpgradedDescription": "手札の<h>詠唱</h>カードの<h>詠唱値</h>を1増やす。<br /><PlayerName />のターン開始時、手札の<h>詠唱</h>カードの<h>詠唱値</h>を1増やす。"
+  },
+  "PatchouliSpringWind": {
+    "Name": "スプリングウィンド",
+    "Description": "手札からカードを<Value1 />枚まで選び、<h>反復</h>を与える。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、<h>活力</h>を<Value1 />枚手札に加える。<br /><h>詠唱</h>",
+    "UpgradedDescription": "手札からカードを<Value1 />枚まで選び、<h>反復</h>を与える。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、<h>幻虹</h>を<Value1 />枚手札に加える。<br /><h>詠唱</h>"
+  },
+  "PatchouliSummerRed": {
+    "Name": "サマーレッド",
+    "Description": "手札を<Value1 />枚選び、1ターン<h>保留</h>する。<br /><h>詠唱</h>カードを選んだ場合、<h>詠唱値</h>を<Value2 />増やす。"
+  },
+  "PatchouliSungrazerComet": {
+    "Name": "サングレーザー",
+    "Description": "<h>チョイス</h>:<h>グレイズ</h><Value1 />を得る。もしくは、<Block /><h>ブロック</h>を得る。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、代わりに両方の効果を適用する。<br /><h>詠唱</h>"
+  },
+  "PatchouliSunshineReflector": {
+    "Name": "サンシャインリフレクター",
+    "Description": "敵全体に<Damage />ダメージを与える。<br /><h>日の印</h><Value1 />を得る。  "
+  },
+  "PatchouliSylphyHorn": {
+    "Name": "シルフィホルン",
+    "Description": "<h>木の印</h><Value1 />を得る。<br /><h>木の印</h>の<h>アクティブ</h>効果が発動するたび、このカードを<h>廃棄場</h>から手札に戻す。"
+  },
+  "PatchouliTeaBreak": {
+    "Name": "小休止",
+    "Description": "ライフを<Value1 />回復する。<br /><PlayerName />の<h>弱体</h>を解除する。",
+    "UpgradedDescription": "ライフを<Value1 />回復する。<br /><PlayerName />の<h>ロックオン</h>、<h>弱体</h>、<h>脱力</h>を解除する。"
+  },
+  "PatchouliTheUnmovingGreatLibrary": {
+    "Name": "大図書館の魔女",
+    "Description": "<h>知力</h><Value1 />を得る。<br /><h>印</h>の<h>アクティブ</h>効果が発動するたび、<h>知力</h><Value2 />を得る。"
+  },
+  "PatchouliTidalWave": {
+    "Name": "タイダルウェイブ",
+    "Description": "<h>溺水</h><Value1 />を与える。<br />その敵の<h>溺水</h>効果を発動させる。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、与える<h>溺水</h>を<Value2 />増やす。<br /><h>詠唱</h>"
+  },
+  "PatchouliTwinspell": {
+    "Name": "呪文二重化",
+    "Description": "カードを<Value1 />枚引く。<br /><h>手札効果</h>:<h>詠唱</h>カードを使用した場合、戦闘終了までこのカードはその<h>詠唱</h>カードに変化する。それは<h>詠唱値</h>を引き継ぎ、<h>複製</h>を持つ。",
+    "UpgradedDescription": "カードを<Value1 />枚引く。<br /><h>手札効果</h>:<h>詠唱</h>カードを使用した場合、戦闘終了までこのカードは<h>アップグレード</h>済みのその<h>詠唱</h>カードに変化する。それは<h>詠唱値</h>を引き継ぎ、<h>複製</h>を持つ。"
+  },
+  "PatchouliVoile": {
+    "Name": "ラクトガール",
+    "Description": "<h>詠唱</h>カードに以下の効果を追加する。<br /><h>詠唱値</h><BoostThreshold1 />以上なら、カードを<Value1 />枚引く。<br /><h>詠唱値</h><BoostThreshold2 />以上なら、<Mana />を得る。<br /><h>詠唱値</h><BoostThreshold3 />以上なら、<h>火力</h><Value1 />を得る。"
+  },
+  "PatchouliWaterElf": {
+    "Name": "ウォーターエルフ",
+    "Description": "<Damage />ダメージを与える。<br /><h>水の印</h><Value1 />を得る。<br /><h>木の印</h><Value1 />を得る。<br /><h>詠唱値</h>1につき、このカードのコストを<Mana />減らす。<br /><h>詠唱</h>"
+  },
+
+  "SanaeAmuletDebuff": {
+    "Name": "弘安の東風谷",
+    "Description": "一つ以上を<h>チョイス</h>：<br />- <h>火力</h><Value1 />と<h>脱力</h><Value1 />を得る。<br />- <h>霊力</h><Value1 />と<h>脆弱化</h><Value1 />を得る。<br />- 最大ライフを<Value1 />増加させて、<h>弱体</h><Value1 />と<h>毒</h><Value1 />を得る。"
+  },
+  "SanaeAmuletDebuffFrail": {
+    "Name": "防御儀式",
+    "Description": "<h>霊力</h><Value1 />と<h>脆弱化</h><Value1 />を得る。"
+  },
+  "SanaeAmuletDebuffVuln": {
+    "Name": "補助儀式",
+    "Description": "最大ライフを<Value1 />増加させて、<h>弱体</h><Value1 />と<h>毒</h><Value1 />を得る。"
+  },
+  "SanaeAmuletDebuffWeak": {
+    "Name": "攻撃儀式",
+    "Description": "<h>火力</h><Value1 />と<h>脱力</h><Value1 />を得る。"
+  },
+  "SanaeAmuletTalisman": {
+    "Name": "一子相伝",
+    "Description": "<Power /><Value1 />を得る。<br /><h>守矢の護符</h>を<Value2 />枚山札に加える。<br /><PlayerName />が持っている<h>加護</h>1につき、<SelfName />のコストを<Mana />減らす。"
+  },
+  "SanaeAttackAmulet": {
+    "Name": "御幣猛撃",
+    "Description": "<Damage />ダメージを与える。<br /><PlayerName />が<h>加護</h>を持っていないならば、<h>加護</h><Value1 />を得る。"
+  },
+  "SanaeAttackBlock": {
+    "Name": "マジックバースト",
+    "Description": "<PlayerName />の<h>ブロック</h>を0にし、減らした数値分のダメージを敵全体に与える。<br /><Block /><h>ブロック</h>を得る。<br /><PlayerName />のターンを終了する。"
+  },
+  "SanaeAttackCopy": {
+    "Name": "波及効果",
+    "Description": "<Damage />ダメージを与える。<br />このカードの<h>複製</h>を山札の一番上に加える。それは<h>廃棄</h>を持つ。"
+  },
+  "SanaeAttackDebuff": {
+    "Name": "ミシャグジ様の轟き",
+    "Description": "敵全体に<Damage />ダメージを与える。<br />敵全体に<h>脱力</h><Value1 />と<h>弱体</h><Value1 />を与える。"
+  },
+  "SanaeAttackExpel": {
+    "Name": "コバルトスプレッド",
+    "Description": "敵全体に<Damage />ダメージを与える。<br /><h>退治</h>：<Power /><Value1 />を得る。"
+  },
+  "SanaeAttackGraze": {
+    "Name": "鋭い微風",
+    "Description": "ランダムな<Value1 />体の敵に<Damage />ダメージを与える。<br />攻撃を受けた敵1体ごとに<Mana />を得る。"
+  },
+  "SanaeAttackOrder": {
+    "Name": "波打つ断層",
+    "Description": "<Damage />ダメージを与える。<br />山札の一番上にあるカードの<h>複製</h>を1枚手札に加える。それは<h>臨時コスト</h><Mana0 />となり、<h>廃棄</h>を持つ。",
+    "UpgradedDescription": "<Damage />ダメージを与える。<br /><Mana />を得る。<br />山札の一番上にあるカードの<h>複製</h>を1枚手札に加える。それは<h>臨時コスト</h><Mana0 />となり、<h>廃棄</h>を持つ。"
+  },
+  "SanaeAttackOverdraft": {
+    "Name": "五芒星のプリズム",
+    "Description": "<Damage />ダメージを与える。<br /><Block /><h>ブロック</h>を得てもよい。そうした場合、<h>オーバードラフト</h><Value1 />。"
+  },
+  "SanaeAttackPower": {
+    "Name": "妖力スポイラー",
+    "Description": "<Damage />ダメージを与える。<br />このダメージが敵のHPを減らした時、それと同じ値の<Power />を得る。"
+  },
+  "SanaeAttackRandom": {
+    "Name": "浄化の霧",
+    "Description": "ランダムな敵に<Damage />ダメージを<Value1 />回与える。<br /><h>純粋なる輝き</h>を<Value2 />枚山札の上に加えてもよい。そうした場合、<Mana />を得る。"
+  },
+  "SanaeAttackRebuff": {
+    "Name": "五穀の雨",
+    "Description": "敵全体に<Damage />ダメージを与える。<br />敵の行動予定がデバフの場合、<h>加護</h><Value1 />を得る。"
+  },
+  "SanaeAttackSpirit": {
+    "Name": "祈りの姿勢",
+    "Description": "<Damage />ダメージを与える。<br /><h>臨時霊力</h><Value1 />を得る。"
+  },
+  "SanaeAttackStatus": {
+    "Name": "輝くフラッドライト",
+    "Description": "敵全体に<Damage />ダメージを与える。<br /><h>星の煌めき</h>を1枚手札に加える。"
+  },
+  "SanaeAttackTwice": {
+    "Name": "忘れられた秘伝",
+    "Description": "<Damage />ダメージを与える。<br /><PlayerName />が<h>加護</h>を持っている場合、代わりに<h>加護</h><Value1 />を失い、ダメージを2回与える。<br />持っていない場合、<h>加護</h><Value2 />を得る。"
+  },
+  "SanaeAttackU": {
+    "Name": "波起こし",
+    "Description": "<Damage />ダメージを与える。"
+  },
+  "SanaeAttackW": {
+    "Name": "風起こし",
+    "Description": "<Damage />ダメージを与える。"
+  },
+  "SanaeAttackWeak": {
+    "Name": "渦巻く両目",
+    "Description": "<h>脱力</h><Value1 />を与える。<br />対象以外の敵全体に<Damage />ダメージを与える。"
+  },
+  "SanaeBlockDiscard": {
+    "Name": "雨水集め",
+    "Description": "<Block /><h>ブロック</h>を得る。<br />手札を1枚捨てる。",
+    "UpgradedDescription": "<Block /><h>ブロック</h>を得る。<br />手札を1枚まで捨てる。"
+  },
+  "SanaeBlockG": {
+    "Name": "星落とし",
+    "Description": "<Block /><h>ブロック</h>を得る。"
+  },
+  "SanaeBlockMana": {
+    "Name": "貯蔵用スイートベリー",
+    "Description": "<Block /><h>ブロック</h>を得る。<br />余剰のマナは次の<PlayerName />のターンまで失われない。<br /><h>オーバードラフト</h><Value1 />。",
+    "UpgradedDescription": "<Block /><h>ブロック</h>を得る。<br />余剰のマナは次の<PlayerName />のターンまで失われない。"
+  },
+  "SanaeBlockRebuff": {
+    "Name": "護符投射",
+    "Description": "<Block /><h>ブロック</h>と<Block /><h>バリア</h>を得る。<br /><PlayerName />が<h>加護</h>を持っているならば、<h>加護</h><Value1 />を失い敵全体に<h>脱力</h><Value2 />を与える。"
+  },
+  "SanaeBlockShuffle": {
+    "Name": "占いの舞",
+    "Description": "山札をシャッフルするたび、<Value1 /><h>ブロック</h>を得る。<br />占術<Scry />。"
+  },
+  "SanaeBlockTalisman": {
+    "Name": "神社のセキュリティガード",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>守矢の護符</h>を<Value1 />枚捨て札に加える。"
+  },
+  "SanaeBlockWard": {
+    "Name": "型破りな護り",
+    "Description": "<Block /><h>ブロック</h>を<Value1 />回得る。<br /><h>庇護</h><Value2 />を<Value1 />回得る。"
+  },
+  "SanaeColorRandom": {
+    "Name": "太陽光スペクトル",
+    "Description": "<Value1 />枚のランダムなカードから1枚選び、手札に加える。それは<h>臨時コスト</h><Mana0 />となり、<h>廃棄</h>と<h>虚無</h>を持つ。<br />これらのカードは<Mana />からそれぞれ選ばれる。"
+  },
+  "SanaeCuriousAbility": {
+    "Name": "時代遅れの外来人",
+    "Description": "能力カードを使用するたび、<h>火力</h><Value1 />を得る。"
+  },
+  "SanaeDazzleDash": {
+    "Name": "輝く線香花火",
+    "Description": "<h>火力</h><Value1 />を得る。<br /><Power /><Value2 />を得る。<br /><h>手札効果</h>：スペルカードを使用するたび、<SelfName />の効果量はターン終了時まで2倍になる。"
+  },
+  "SanaeDrawAbility": {
+    "Name": "諏訪湖の二柱半の神様",
+    "Description": "カードを<Value1 />枚引く。<br />能力カードを引いた場合、それの<h>臨時コスト</h>を<Mana />減らす。",
+    "UpgradedDescription": "カードを<Value1 />枚引く。<br />能力カードを引いた場合、それの<h>臨時コスト</h>をランダムに<Value2 />つ減らす。"
+  },
+  "SanaeDrawDebuff": {
+    "Name": "動乱の都会の杖",
+    "Description": "<h>手札効果</h>：ドローフェイズ以外でカードを引くたび、<Mana />を得る。<br /><h>廃棄した時</h>：ライフを<Value2 />失う。このターン、追加でカードを引くことができない。",
+    "UpgradedDescription": "<h>手札効果</h>：ドローフェイズ以外でカードを引くたび、ランダムなマナ<Value1 />つを得る。<br /><h>廃棄した時</h>：ライフを<Value2 />失う。このターン、追加でカードを引くことができない。"
+  },
+  "SanaeDrawDiscard": {
+    "Name": "水上歩行",
+    "Description": "カードを<Value1 />枚引く。<br />ランダムな手札<Value2 />枚を捨ててもよい。そうした場合、カードを<Value2 />枚引く。"
+  },
+  "SanaeDrawOrder": {
+    "Name": "貝殻交換",
+    "Description": "山札の上から<Value1 />枚のカードを見て、1枚選んで山札の1番上に移動させる。<br />移動させたのがスキルカードの場合、カードを<Value2 />枚引く。<br /><Mana />を得る。",
+    "UpgradedDescription": "山札の上から<Value1 />枚のカードを見て、1枚選んで山札の1番上に移動させる。<br />移動させたのがスキルカードの場合、カードを<Value2 />枚引く。<br /><Mana />を得る。<br />カードを<Value2 />枚引く。"
+  },
+  "SanaeDrawSplash": {
+    "Name": "モーゼの奇跡",
+    "Description": "カードを<Value1 />枚引く。<br />手札にあるスキルカードを全て捨て、捨てた枚数と同じ数の<h>水沫</h>を手札に加える。それらは<h>自動廃棄</h>を持つ。"
+  },
+  "SanaeDrawTalisman": {
+    "Name": "積み込み",
+    "Description": "<h>守矢の護符</h>を<Value1 />枚山札の一番上に置く。<br />カードを<Value2 />枚引く。"
+  },
+  "SanaeDrawTemp": {
+    "Name": "スクールサイエンスフェア",
+    "Description": "カードを<Value1 />枚引く。<br /><PlayerName />のターン開始時、カードを<Value1 />枚引く。この効果でスキル以外のカードを引いた場合、それを捨てる。"
+  },
+  "SanaeDrawWard": {
+    "Name": "ワイルドカード",
+    "Description": "<h>庇護</h><Value1 />を得る。<br />カードを<Value2 />枚引く。"
+  },
+  "SanaeExileDamage": {
+    "Name": "三色のエーデルワイス",
+    "Description": "状態異常カードまたは<h>自動廃棄</h>を持つカードが廃棄されるたび、ランダムな敵に<Value1 />ダメージを与える。",
+    "UpgradedDescription": "状態異常カードまたは<h>自動廃棄</h>を持つカードが廃棄されるたび、ランダムな敵に<Value1 />ダメージを与える。<br /><h>守矢の護符</h>を<Value2 />枚手札に加える。"
+  },
+  "SanaeExilePower": {
+    "Name": "広がる御香",
+    "Description": "<Shield /><h>バリア</h>を得る。<br />山札、捨て札から最大X枚のカードを<h>廃棄</h>する。",
+    "UpgradedDescription": "<Shield /><h>バリア</h>を得る。<br />山札、捨て札から最大X枚のカードを<h>廃棄</h>する。<br /><h>廃棄</h>した枚数と同じ数の<h>守矢の護符</h>を捨て札に加える。"
+  },
+  "SanaeGrazeAmulet": {
+    "Name": "風の祝福",
+    "Description": "<h>グレイズ</h><Value1 />を得る。<br /><h>加護</h><Value2 />を得る。"
+  },
+  "SanaeGrazeWard": {
+    "Name": "神風の盾",
+    "Description": "<PlayerName />が攻撃を<h>グレイズ</h>するたび、<h>庇護</h><Value1 />を得る。<br /><h>グレイズ</h><Value2 />を得る。"
+  },
+  "SanaeHisouHead": {
+    "Name": "未確認巨大ロボ、非想天則",
+    "Description": "全ての<h>未確認巨大ロボ</h>カードが手札にある場合、<h>未確認巨大ロボ</h>カードを全て<h>廃棄</h>し、全ての敵を即死させる。<br />上記を満たしていない場合、<Value1 />枚の<h>未確認巨大ロボ</h>カードから1枚を選んで手札に加え、<PlayerName />のターンを終了する。<br /><h>充填</h>：<Mana />を得る。",
+    "UpgradedDescription": "全ての<h>未確認巨大ロボ</h>カードが手札にある場合、<h>未確認巨大ロボ</h>カードを全て<h>廃棄</h>し、全ての敵を即死させる。<br />上記を満たしていない場合、<Value1 />枚のアップグレード済みの<h>未確認巨大ロボ</h>カードから1枚を選んで手札に加え、<PlayerName />のターンを終了する。<br /><h>充填</h>：<Mana />を得る。"
+  },
+  "SanaeHisouLeftArm": {
+    "Name": "未確認巨大ロボの左腕",
+    "Description": "<h>ターン終了時</h>：<h>星の煌めき</h>を<Value1 />枚捨て札に加える。"
+  },
+  "SanaeHisouLeftLeg": {
+    "Name": "未確認巨大ロボの左足",
+    "Description": "<h>ターン終了時</h>：<h>脆弱化</h><Value1 />を得る。",
+    "UpgradedDescription": "<h>ターン終了時</h>：<h>脱力</h><Value1 />を得る。"
+  },
+  "SanaeHisouRightArm": {
+    "Name": "未確認巨大ロボの右腕",
+    "Description": "<h>ターン終了時</h>：<Value1 />ダメージを受ける。"
+  },
+  "SanaeHisouRightLeg": {
+    "Name": "未確認巨大ロボの右足",
+    "Description": "<h>ターン終了時</h>：<h>オーバードラフト</h><Value1 />。"
+  },
+  "SanaeKanakoFriend": {
+    "Name": "神風の支配者、神奈子",
+    "PassiveDescription": "最もライフが多い敵に<Damage />ダメージを与える。",
+    "UpgradedPassiveDescription": "最もライフが多い敵に<Damage />ダメージを与える。"
+  },
+  "SanaeLifeAmulet": {
+    "Name": "守護の儀式",
+    "Description": "ライフを<Value1 />失う。<br /><Shield /><h>バリア</h>を得る。<br /><h>加護</h><Value2 />を得る。"
+  },
+  "SanaeLifeStatus": {
+    "Name": "ピョン太ハットトリック",
+    "Description": "最大ライフ<Value1 />を得る。<br />手札、山札、捨て札にあるランダムな<Value2 />枚のカードを<h>カエル</h>に変化させる。"
+  },
+  "SanaeManaRandom": {
+    "Name": "ファフロッキーズの奇跡",
+    "Description": "ランダムな<Value1 />枚の総コストが4以下のカードを手札に加える。<br />それらはコストが<Mana />となり、<h>虚無</h>を持つ。",
+    "UpgradedDescription": "ランダムな<Value1 />枚の総コストが4以下の<h>アップグレード済み</h>カードを手札に加える。<br />それらはコストが<Mana />となり、<h>虚無</h>を持つ。"
+  },
+  "SanaeManaShuffle": {
+    "Name": "飲用池水",
+    "Description": "<h>廃棄した時</h>：<Mana />を得る。<br />山札がシャッフルされるたび、<SelfName />を<h>廃棄場</h>から手札に戻す。"
+  },
+  "SanaeManaSynergy": {
+    "Name": "ミラクルフルーツ",
+    "Description": "<h><ManaW />につき</h>：<ManaU /><ManaG />を得る。 <br /><h><ManaU />につき</h>：<ManaW /><ManaG />を得る。<br /><h>オーバードラフト</h><Value1 />。",
+    "UpgradedDescription": "<h><ManaW />につき</h>：<ManaU /><ManaG />を得る。 <br /><h><ManaU />につき</h>：<ManaW /><ManaG />を得る。 <br /><h><ManaG />につき</h>：<ManaW /><ManaU />を得る。<br /><h>オーバードラフト</h><Value1 />。"
+  },
+  "SanaeManaTemp": {
+    "Name": "青蛇の髪飾り",
+    "Description": "<h>臨時霊力</h><Value1 />を得る。<br />手札が<Value3 />枚以上あるならば、<h>臨時霊力</h><Value2 />を<h>霊力</h>に変換しカードを<Value2 />枚引く。"
+  },
+  "SanaeManaTurbo": {
+    "Name": "月明かりの湖",
+    "Description": "<Mana />を得る。<br /><h>月の静寂</h>を<Value1 />枚捨て札に加える。"
+  },
+  "SanaeMiracleAbility": {
+    "Name": "ミラクルペンタクル",
+    "Description": "ランダムなアンコモン能力カード<Value1 />枚から1枚を選んで手札に加える。それは<h>臨時コスト</h><Mana />となり、<h>反復</h>と<h>虚無</h>を持つ。",
+    "UpgradedDescription": "ランダムなレア能力カード<Value1 />枚とアンコモン能力カード<Value1 />枚から1枚を選んで手札に加える。それは<h>臨時コスト</h><Mana />となり、<h>反復</h>と<h>虚無</h>を持つ。"
+  },
+  "SanaeMoneyWard": {
+    "Name": "商売繁盛守り",
+    "Description": "<h>庇護</h><Value1 />を得る。<br /><Money /><Value2 />を得る。<br />ランダムなマナを<Value3 />つ得る。"
+  },
+  "SanaeOrderShuffle": {
+    "Name": "断片的な洞察",
+    "Description": "山札を見た時、実際のカードの並び順通りに表示される。<br />スキルでないカードを使用するたび、<Mana />を得て、捨て札を山札に加え、山札をシャッフルする。"
+  },
+  "SanaePowerOmikuji": {
+    "Name": "御神籤ボーナス",
+    "Description": "<PlayerName />が<Power />を持っているならば、<Power /><Value1 />を失って<PlayerName />のスペルカードのダメージを<Value2 />増やす。"
+  },
+  "SanaePowerPotato": {
+    "Name": "現代の娯楽",
+    "Description": "戦闘終了時、<Power /><Value1 />を得る。"
+  },
+  "SanaePowerTemp": {
+    "Name": "力試し",
+    "Description": "<h>火力</h><Value1 />を得る。<br /><Power /><Value1 />を得る。<br /><PlayerName />の次のターン開始時、<h>火力</h><Value1 />を失う。"
+  },
+  "SanaeReimuAbility": {
+    "Name": "神社対決",
+    "Description": "ランダムな霊夢専用のレア能力カード<Value1 />枚から1枚を選んで手札に加える。それは<h>臨時コスト</h><Mana />となり、<h>虚無</h>を持つ。<br /><h>オーバードラフト</h><Value2 />。"
+  },
+  "SanaeScryPower": {
+    "Name": "先見の明",
+    "Description": "占術<Scry />。<br /><h>初見</h>：<Power /><Value1 />を得る。",
+    "UpgradedDescription": "占術<Scry />。<br /><h>初見</h>：<Power /><Value1 />を得る。戦闘終了まで<SelfName />のコストを<Mana />減らす。"
+  },
+  "SanaeScryReturn": {
+    "Name": "白夜の輝き",
+    "Description": "占術<Scry />。<br />山札が空の場合、捨て札からカードを1枚選んで手札に戻す。"
+  },
+  "SanaeScryShuffle": {
+    "Name": "未来予知",
+    "Description": "捨て札を山札に加え、山札をシャッフルする。<br />占術<Scry />。"
+  },
+  "SanaeSpellDamage": {
+    "Name": "グリーンソーマタージ",
+    "Description": "ライフを<Value1 />回復する。<br />スペルカードを使用するたび、ランダムな敵に<Value3 />の攻撃ダメージを<Value2 />回与える。"
+  },
+  "SanaeSpellMana": {
+    "Name": "インターネット陰謀論",
+    "Description": "スペルカードを使用するたび、<Mana />を得る。<br />このターンを終了し、次の自分のターンを開始する。<br /><h>時間制限</h><Mana1 />。",
+    "UpgradedDescription": "<Power /><Value2 />を得る。<br />スペルカードを使用するたび、<Mana />を得る。<br />このターンを終了し、次の自分のターンを開始する。<br /><h>時間制限</h><Mana1 />。"
+  },
+  "SanaeSpellPower": {
+    "Name": "儚き信仰",
+    "Description": "ライフを<Value1 />失う。<br /><Power /><Value2 />を得る。<br />次の<PlayerName />のターン開始時、<Power /><Value3 />を失う。"
+  },
+  "SanaeSpiritDebuff": {
+    "Name": "せっかちな祈祷者",
+    "Description": "<h>霊力</h><Value1 />を得る。<br /><PlayerName />のターン開始時、<h>霊力</h><Value2 />を失う。"
+  },
+  "SanaeSpiritMana": {
+    "Name": "召喚術の練習",
+    "Description": "2ターン後の<PlayerName />のターン開始時：<h>霊力</h><Value1 />を得て、<h>光明</h>を1枚手札に加える。",
+    "UpgradedDescription": "次の<PlayerName />のターン開始時：<h>霊力</h><Value1 />を得て、<h>光明</h>を1枚手札に加える。"
+  },
+  "SanaeSpiritShuffle": {
+    "Name": "霊魂捜索",
+    "Description": "<h>臨時霊力</h><Value1 />を得る。<br />捨て札を山札に加え、山札をシャッフルする。<br />カードを<Value2 />枚引く。"
+  },
+  "SanaeSpiritTalisman": {
+    "Name": "Kouan Era Kochiya (old)",
+    "Description": "Gain <Value1 /> <h>Spirit</h>.<br /><h>Choose</h>: Gain <Value2 /> <h>Ward</h>, or add <Value3 /> <h>Moriya Talismans</h> to the hand."
+  },
+  "SanaeStarterU": {
+    "Name": "無謀な退治者",
+    "Description": "<Damage />ダメージを<Value1 />回与える。<br /><SelfName />で敵を倒した場合、<Power /><Value2 />を得る。<br />この効果は戦闘ごとに1回しか発動しない。"
+  },
+  "SanaeStarterW": {
+    "Name": "二重衝撃",
+    "Description": "<Damage />ダメージを与える。<br /><h>眩輝</h>を1枚手札に加えてもよい。そうした場合、代わりに<Value1 />ダメージを<Value2 />回与える。"
+  },
+  "SanaeStatus": {
+    "Name": "守矢の護符",
+    "Description": "<h>廃棄した時</h>：<Block /><h>ブロック</h>を得る。<Block /><h>バリア</h>を得る。"
+  },
+  "SanaeStatusSynergy": {
+    "Name": "烈日の儀式",
+    "Description": "<Mana />を得る。<br /><h>日の照射</h>を<Value1 />枚山札に加える。<br /><h>火力</h><Value2 />を得る。"
+  },
+  "SanaeStatusTalisman": {
+    "Name": "手作り護符",
+    "Description": "<PlayerName />のターン終了時、<h>守矢の護符</h>を<Value1 />枚捨て札に加える。"
+  },
+  "SanaeSuwakoFriend": {
+    "Name": "狡猾なカエルラバー、諏訪子",
+    "PassiveDescription": "<h>残留思念</h>を<Value1 />枚山札に加える。",
+    "ActiveDescription": "敵全体に<h>脱力</h><Value1 />を与える。",
+    "Active2Description": "ランダムなアンコモンの能力カード1枚を手札に加える。それは<h>臨時コスト</h><Mana />となり、<h>虚無</h>を持つ。"
+  },
+  "SanaeToolNews": {
+    "Name": "山頂の会議",
+    "Description": "<h>チョイス</h>：ランダムなレアでない河童の<h>道具</h>カードを<Value1 />枚手札に加える、もしくはランダムな天狗の<h>道具</h>カードを<Value2 />枚手札に加える。<br />それらは<h>複製</h>、<h>自動廃棄</h>、<h>消耗品1</h>を持つ。"
+  },
+  "SanaeUpgradeWard": {
+    "Name": "レイラインスポットライト",
+    "Description": "ランダムな手札<Value1 />枚をアップグレードする。<br />この効果でカードをアップグレードできなかった場合、<h>庇護</h><Value2 />を得る。<br /><h>充填</h>：<Mana />を得る。"
+  },
+  "SanaeWardAmulet": {
+    "Name": "徽章交換",
+    "Description": "<h>庇護</h><Value1 />を得る。<br /><PlayerName />が<h>加護</h>を持っているならば、代わりに<h>加護</h><Value3 />を失い<h>庇護</h><Value2 />を得る。"
+  },
+  "SanaeWardReflect": {
+    "Name": "封印反動",
+    "Description": "<h>庇護</h><Value1 />を得る。<br /><h>反射</h><Value2 />を得る。"
+  },
+  "SanaeWardTalisman": {
+    "Name": "事前詠唱",
+    "Description": "<PlayerName />が<h>庇護</h>を得るたび、同じ数の<Power />を得る。<br />スペルカードを使用するたび、<h>守矢の護符</h>を<Value1 />枚捨て札に加える。"
+  },
+  "SanaeWineSplash": {
+    "Name": "水とワイン",
+    "Description": "<h>ちょい飲み</h>と<h>水沫</h>を1枚ずつ手札に加える。",
+    "UpgradedDescription": "<h>ちょい飲み+</h>と<h>水沫+</h>を1枚ずつ手札に加える。"
+  },
+
+  "AblativeArmor": {
+    "Name": "高温蒸気アーマー",
+    "Description": "<Block /><h>ブロック</h>を得る。<br />手札にある<h>質量体</h>を全て<h>廃棄</h>し、<h>廃棄</h>したカード1枚につき<Value1 /><h>バリア</h>を得る。"
+  },
+  "AbyssNova": {
+    "Name": "アビスノヴァ",
+    "Description": "<Damage />ダメージを与える。<h>フィールド</h>に存在する<h>質量体</h>1枚につき<SelfName />のダメージを<Value1 />増やす。"
+  },
+  "Aggregate": {
+    "Name": "凝集体",
+    "Description": "<Damage />ダメージを与える。<br /><Block /><h>ブロック</h>を得る。<br /><h>熱</h><Value1 />を得る。"
+  },
+  "AlphaProtocol": {
+    "Name": "α崩壊プロトコル",
+    "Description": "<h>β崩壊プロトコル</h>を1枚山札に加える。<br />ランダムな手札<Value1 />枚を捨てる。",
+    "UpgradedDescription": "<h>β崩壊プロトコル+</h>を1枚山札に加える。<br />ランダムな手札<Value1 />枚を捨てる。"
+  },
+  "BetaProtocol": {
+    "Name": "β崩壊プロトコル",
+    "Description": "<h>γ崩壊プロトコル</h>を1枚山札に加える。<br />ランダムな手札<Value1 />枚を<h>廃棄</h>する。",
+    "UpgradedDescription": "<h>γ崩壊プロトコル+</h>を1枚山札に加える。<br />ランダムな手札<Value1 />枚を<h>廃棄</h>する。"
+  },
+  "BlackHole": {
+    "Name": "ブラックホール",
+    "Description": "<h>手札効果</h>：<PlayerName />のターン開始時、<Block /><h>ブロック</h>を得て、ランダムな手札1枚を捨てる。"
+  },
+  "BlowAway": {
+    "Name": "吹き飛ばし",
+    "Description": "<Block /><h>ブロック</h>を得る。"
+  },
+  "Blueshift": {
+    "Name": "青方偏移",
+    "Description": "<h>重複過払い</h><Mana />：<SelfName />を1枚手札に加える。<br /><Block /><h>ブロック</h>を得る。",
+    "UpgradedDescription": "<h>重複過払い</h><Mana />：<SelfName />+を1枚手札に加える。<br /><Block /><h>ブロック</h>を得る。"
+  },
+  "BunkerDown": {
+    "Name": "緊急遮断",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>初見</h>：<Shield />バリアを得る。戦闘終了までこのカードのコストを<Mana />減らす。"
+  },
+  "Caution": {
+    "Name": "CAUTION!",
+    "Description": "<PlayerName />のターン開始時、<h>バースト</h>状態になり、<h>時間制限</h><Mana1 />。"
+  },
+  "CloakStar": {
+    "Name": "星の衣",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>ダークマター</h>を2枚手札に加える。"
+  },
+  "Coolant": {
+    "Name": "クーラント",
+    "Description": "<h>過払い</h><Mana />：<h>火力</h><Value2 />を得る。<br /><h>霊力</h><Value1 />を得る。<br />防御カード以外のカードをすべて捨てる。"
+  },
+  "Crossfeed": {
+    "Name": "クロスフィード",
+    "Description": "<h>排熱</h>して<Damage />ダメージを与える。<br />手札にある<h>質量体</h>1枚につき<h>熱</h><Value1 />を得る。<br /><PlayerName />が持っている<h>熱</h><Value2 />点ごとに<h>ダークマター</h>を1枚手札に加える。"
+  },
+  "DarkMatter": {
+    "Name": "ダークマター",
+    "Description": "<h>手札に加わった時</h>：このターンの間<h>保留</h>を得る。<br /><h>質量体</h>"
+  },
+  "Disintegrate": {
+    "Name": "物質崩壊",
+    "Description": "<Damage />ダメージを与える。<br /><h>退治</h>：デッキからカードを1枚削除する"
+  },
+  "Dojo": {
+    "Name": "『お空のニュークリアフュージョン道場』",
+    "Description": "<h>火力</h><Value1 />を得る。<br />ターンを終了する。"
+  },
+  "EscapeVelocity": {
+    "Name": "脱出速度",
+    "Description": "ランダムな手札<Value2 />枚を捨てる。<br />カードを<Value1 />枚引く。",
+    "UpgradedDescription": "<h>チョイス</h>：ランダムな手札<Value2 />枚を捨ててからカードを<Value1 />枚引く、もしくはカードを<Value1 />枚引いてからランダムな手札<Value2 />枚を捨てる。"
+  },
+  "EternityEngine": {
+    "Name": "悠久機関",
+    "Description": "<h>手札効果</h>：<PlayerName />のターン開始時、<h>火力</h><Value1 />を得て、ランダムな手札1枚を<h>廃棄</h>する。"
+  },
+  "EverythingBurns": {
+    "Name": "全てを燃やし尽くせ",
+    "Description": "手札のカードをX+2枚まで<h>廃棄</h>する。<br /><h><Mana />につき</h>：<Damage />ダメージを与える。"
+  },
+  "ExpandingBrilliance": {
+    "Name": "拡散する輝き",
+    "Description": "カードを1枚引く。<br />敵全体に<h>臨時火力ダウン</h><Value1 />を与える。<br />手札のカード1枚をこの戦闘中<h>アップグレード</h>する。"
+  },
+  "FireBurst": {
+    "Name": "ファイアバースト",
+    "Description": "<Damage />ダメージを与える。"
+  },
+  "Fission": {
+    "Name": "核分裂",
+    "Description": "ランダムな赤の攻撃と防御カードを1枚ずつ手札に加える。それらのカードはマナの色に関係なく使用できる。<br /><h>熱</h><Value1 />を得る。<br /><Mana />を得る。",
+    "UpgradedDescription": "ランダムな赤の攻撃と防御カードを1枚ずつ手札に加える。それらのカードはマナの色に関係なく使用できる。<br /><h>熱</h><Value1 />を得る。<br /><Mana />を得る。"
+  },
+  "FixedStar": {
+    "Name": "フィクストスター",
+    "Description": "<PlayerName />のターン終了時、手札を<Value1 />枚まで選び、1ターン<h>保留</h>する。<br />全ての<h>ダークマター</h>は<h>自動廃棄</h>を持つ。"
+  },
+  "FlareUp": {
+    "Name": "フレアアップ",
+    "Description": "<h>排熱</h>して<Damage />ダメージを与える。<br /><h>脱力</h><Value1 />を与える。<br /><h>弱体</h><Value1 />を与える。",
+    "UpgradedDescription": "<h>脱力</h><Value1 />を与える。<br /><h>弱体</h><Value1 />を与える。<br /><h>排熱</h>して<Damage />ダメージを与える。"
+  },
+  "GammaProtocol": {
+    "Name": "γ崩壊プロトコル",
+    "Description": "<h>放射能</h><Value1 />を得る。"
+  },
+  "GammaRays": {
+    "Name": "ガンマ線",
+    "Description": "<h>放射能</h><Value1 />を得る。",
+    "UpgradedDescription": "<h>放射能</h><Value1 />を得る。<br /><h>成長</h>：得られる<h>放射能</h>を<Value2 />増やす。"
+  },
+  "GravityDistortion": {
+    "Name": "重力場歪曲",
+    "Description": "敵全体に<h>脱力</h><Value2 />を与えて、<Damage />ダメージを与える。<br /><h>質量体</h><br /><h>牽引された時</h>：<Mana />を得る。"
+  },
+  "GravityWell": {
+    "Name": "重力の井戸",
+    "Description": "<PlayerName />のターン終了時、<Value1 /><h>バリア</h>を得て、<h>ダークマター</h>1枚を手札に加える。"
+  },
+  "Gridlock": {
+    "Name": "グリッドロック",
+    "Description": "<Block /><h>ブロック</h>を得る。"
+  },
+  "HeatShield": {
+    "Name": "熱防壁",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><PlayerName />の<h>熱</h>が<Value2 />以下ならば、<h>熱</h><Value1 />を得る。"
+  },
+  "HeatVisor": {
+    "Name": "核熱バイザー",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><PlayerName />の<h>熱</h>が<Value1 />以上ならば、次のターンまでに1回だけライフの減少を無効化する。"
+  },
+  "HellGeyser": {
+    "Name": "ヘルゲイザー",
+    "Description": "<h>熱</h><Value1 />を得る。<br /><h>排熱</h>して<Damage />ダメージを与える。<br /><h>熱</h><Value2 />を得る。"
+  },
+  "HighTension": {
+    "Name": "高電圧ブレード",
+    "Description": "山札からランダムなカード<Value1 />枚を捨て札に移動させる。<br /><Damage />ダメージを与える。<br />移動された<h>質量体</h>1枚につき与えるダメージを<Value2 />増やす。"
+  },
+  "HotSpring": {
+    "Name": "地霊温泉",
+    "Description": "<PlayerName />のターン開始時、<h>放射能</h><Value1 />を得る。得られる<h>放射能</h>は毎ターン1ずつ増えていく。"
+  },
+  "Ignition": {
+    "Name": "着火",
+    "Description": "<h><Mana />ごとに</h>：<br /><h>熱</h><Value1 />を得て、<h>ダークマター</h>を1枚手札に加える。"
+  },
+  "InverseBeam": {
+    "Name": "反転ビーム",
+    "Description": "<Damage />ダメージを与える。"
+  },
+  "MaintainReaction": {
+    "Name": "継続反応",
+    "Description": "カードが<h>保留</h>されるたび、<h>熱</h><Value1 />を得る。"
+  },
+  "MassDriver": {
+    "Name": "マスドライバー",
+    "Description": "<h>質量体</h>が牽引されるたび、敵全体に<Value1 />ダメージを与える。"
+  },
+  "MaxPower": {
+    "Name": "パワーマックス",
+    "Description": "手札を全て<h>廃棄</h>する。<br />全てのマナを失い、<Mana />を得る。<br />カードを<Value1 />枚引く。<br /><h>臨時火力</h><Value1 />を得る。<br /><h>時間制限</h><Mana1 />."
+  },
+  "MegaFlare": {
+    "Name": "メガフレア",
+    "Description": "敵全体に<Damage />ダメージを4回与える。<br /><h>保留効果</h>：この戦闘中<SelfName />のダメージを<Value1 />減らす。"
+  },
+  "NightFalls": {
+    "Name": "夜の帳",
+    "Description": "<h>ダークマター</h>を手札上限に達するまで手札に加える。<br />手札にある<h>質量体</h>の枚数の<Value1 />倍のダメージを与える。"
+  },
+  "NuclearDive": {
+    "Name": "核反応制御不能ダイブ",
+    "Description": "<PlayerName />の<h>熱</h>を2倍にする。<br /><PlayerName />の<h>熱</h>10点につき1ダメージを受ける。<br /><h>排熱</h>して<Damage />ダメージを与える。<br /><h>退治</h>：<Mana />を得る。",
+    "UpgradedDescription": "<PlayerName />の<h>熱</h>を3倍にする。<br /><PlayerName />の<h>熱</h>10点につき1ダメージを受ける。<br /><h>排熱</h>して<Damage />ダメージを与える。<br /><h>退治</h>：<Mana />を得る。"
+  },
+  "NuclearFusion": {
+    "Name": "ニュークリアフュージョン",
+    "Description": "手札を1枚<h>廃棄する</h>。<br /><h>熱</h>Xを得る。<br /><h>熱</h>Xを得られる<h>ニュークリアストライク</h>1枚を手札に加える。<br />Xは<h>廃棄</h>されたカードのコストの<Value1 />倍に等しい。"
+  },
+  "NuclearStrike": {
+    "Name": "ニュークリアストライク",
+    "Description": "<h>排熱</h>して<Damage />ダメージを与える。<br /><h>熱</h><Value1 />を得る。"
+  },
+  "PlanetaryOrbit": {
+    "Name": "惑星軌道",
+    "Description": "山札と捨て札を入れ替える。<br />入れ替えたカードの枚数に等しいダメージを敵全体に与える。<br /><SelfName />は入れ替えられた全ての<h>質量体</h>を<h>牽引</h>したと見なされる。",
+    "UpgradedDescription": "山札と捨て札を入れ替える。<br />入れ替えたカードの枚数の2倍に等しいダメージを敵全体に与える。<br /><SelfName />は入れ替えられた全ての<h>質量体</h>を<h>牽引</h>したと見なされる。"
+  },
+  "PlasmaBurn": {
+    "Name": "高温プラズマ",
+    "Description": "<h>熱</h><Value1 />を得る<br /><PlayerName />の<h>熱</h>が<Value2 />以上ならば、<h>排熱</h>して<Damage />ダメージを与える。"
+  },
+  "QuantumDissonance": {
+    "Name": "量子不和",
+    "Description": "各ターン最初に使用された<Value1 />枚の<h>ダークマター</h>は占術3を行う。"
+  },
+  "RecklessGamble": {
+    "Name": "無謀なギャンブル",
+    "Description": "カードを<Value1 />枚引く。<br />ランダムな手札1枚を<h>廃棄</h>する。"
+  },
+  "Reignition": {
+    "Name": "再着火",
+    "Description": "<h>廃棄場</h>にあるカードの枚数の<Value1 />倍のダメージを与える。"
+  },
+  "Remember": {
+    "Name": "『たすけて！おつかれさとり様』",
+    "Description": "<h>廃棄場</h>にあるカードを任意の枚数だけ手札に戻す。"
+  },
+  "Resonance": {
+    "Name": "共振",
+    "Description": "<Damage />ダメージを与える。<br />この戦闘中、全ての<SelfName />が与えるダメージを<Value1 />増やす。<br /><PlayerName />が<SelfName />でないカードを<h>廃棄</h>するたび、<SelfName />を1枚手札に加える。",
+    "UpgradedDescription": "<Damage />ダメージを与える。<br />この戦闘中、全ての<SelfName />+が与えるダメージを<Value1 />増やす。<br /><PlayerName />が<SelfName />+でないカードを<h>廃棄</h>するたび、<SelfName />+を1枚手札に加える。"
+  },
+  "Salvo": {
+    "Name": "一斉射撃",
+    "Description": "ランダムな敵に<Damage />のダメージを<SalvoCount />回与える。<br />このターン中使用したカード1枚につき、追加で1回ダメージを与える。"
+  },
+  "ShootingStar": {
+    "Name": "シューティングスター",
+    "Description": "<Damage />ダメージを2回与える。<br /><h>質量体</h><br /><h>牽引された時</h>：<Block /><h>ブロック</h>を得て、<h>ダークマター</h>を1枚手札に加える。"
+  },
+  "SkyFlight": {
+    "Name": "高空飛行",
+    "Description": "<h>グレイズ</h><Value1 />を得る。"
+  },
+  "SpaceScanner": {
+    "Name": "宇宙探査機",
+    "Description": "<h>ダークマター</h>を2枚山札に加える。<br /><h>占術</h><Scry />。<br />カードを1枚引く。"
+  },
+  "SpatialRend": {
+    "Name": "空間断裂",
+    "Description": "<h>廃棄場</h>からランダムに<Value1 />枚のカードを手札に戻す。<br /><Damage />ダメージを与える。<br />戻したカード1枚ごとに与えるダメージを<Value2 />増やす、戻したのが<h>質量体</h>ならばダメージを<doubleValue />増やす。"
+  },
+  "Starlight": {
+    "Name": "スターライト",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>熱</h><Value1 />を得る。<br /><h>ダークマター</h>を2枚手札に加える。",
+    "UpgradedDescription": "<Shield /><h>バリア</h>を得る。<br /><h>熱</h><Value1 />を得る。<br /><h>ダークマター</h>を2枚手札に加える。"
+  },
+  "StartReactor": {
+    "Name": "リアクター起動",
+    "Description": "<PlayerName />はターン終了時<h>熱</h><Value1 />を得る。"
+  },
+  "SubterraneanSun": {
+    "Name": "サブタレイニアンサン",
+    "Description": "<h>手札効果</h>：<PlayerName />のターン開始時、ランダムな敵に<Damage />ダメージを与えて、手札、山札、捨て札からランダムなカード1枚をこの戦闘から消滅させる。この効果を<RemoveCount />回繰り返す。<br /><SelfName />が<h>保留</h>されるたび、手札効果の発動回数を1回増やす。"
+  },
+  "SunCrow": {
+    "Name": "太陽を盗んだ鴉",
+    "Description": "<h>フィールド</h>からランダムなカード<Value2 />枚を消滅させる。<br />消滅させたカード1枚ごとに<h>熱</h><Value1 />点を得る、消滅させたのが<h>質量体</h>ならば2倍の<h>熱</h>を得る。"
+  },
+  "SunlightReverie": {
+    "Name": "サンライトレヴァリエ",
+    "Description": "<h>火焔</h>を2枚手札に加える。<br />ランダムな山札1枚を<h>廃棄</h>する。",
+    "UpgradedDescription": "<h>火焔</h>を2枚手札に加える。<br /><h>チョイス</h>：ランダムな捨て札1枚を<h>廃棄</h>する、もしくはランダムな山札1枚を<h>廃棄</h>する。"
+  },
+  "SunSpot": {
+    "Name": "「人工太陽の黒点」",
+    "Description": "<h>熱</h><Value1 />を得る。<br /><h>ダークマター</h>を<Value2 />枚手札に加える。<br /><h>ダークマター</h>を使用するたび、<h>熱</h>を失わずに<h>熱</h>の減衰ダメージを発生させる。",
+    "UpgradedDescription": "<h>熱</h><Value1 />を得る。<br /><h>ダークマター</h>を<Value2 />枚手札に加える。<br /><h>ダークマター</h>を使用するたび、<h>熱</h>を失わずに<h>熱</h>の減衰ダメージを2回発生させる。"
+  },
+  "SuperGiant": {
+    "Name": "超巨星",
+    "Description": "<Damage />ダメージを与える。<br />手札にある<h>質量体</h>1枚につき<SelfName />のコストを<Mana />減らす。"
+  },
+  "Tokamak": {
+    "Name": "「ヘルズトカマク」",
+    "Description": "<h>熱</h><Value1 />を得る。<br />次のプレイヤーのターン開始時に<h>熱</h><Value1 />を得る。"
+  },
+  "TurboFuel": {
+    "Name": "ターボ燃料",
+    "Description": "<PlayerName />のターン開始時、<manatype />を得てカードを<Value1 />枚引く。<br />ランダムな手札1枚を<h>廃棄</h>する。"
+  },
+  "Ultraviolet": {
+    "Name": "紫外光線",
+    "Description": "<Mana />を得る。<br /><h>質量体</h><br /><h>牽引された時</h>：カードを<Value1 />枚引く。",
+    "UpgradedDescription": "<Mana />を得る。<br /><h>質量体</h><br /><h>牽引された時</h>：カードを<Value1 />枚引く。"
+  },
+  "VacuumSlash": {
+    "Name": "真空波",
+    "Description": "敵全体に<Damage />ダメージを与える。<br />ランダムな手札1枚を捨てる。<br />このカードで<h>質量体</h>を牽引した時、追加でダメージを<Value1 />回与える。",
+    "UpgradedDescription": "敵全体に<Damage />ダメージを与える。<br />ランダムな手札1枚を捨てる。<br />このカードで<h>質量体</h>を牽引した時、追加でダメージを<Value1 />回与える。"
+  },
+  "WarpShield": {
+    "Name": "ワープシールド",
+    "Description": "<Block /><h>ブロック</h>を得る。<br />山札からランダムなカード<Value2 />枚を手札に移動させる。<br />移動させた<h>質量体</h>1枚につき追加で<Value1 /><h>ブロック</h>を得る。",
+    "UpgradedDescription": "<Block /><h>ブロック</h>を得る。<br />山札からランダムなカード<Value2 />枚を手札に移動させる。<br />移動させた<h>質量体</h>1枚につき追加で<Value1 /><h>バリア</h>を得る。"
+  },
+  "WasteNot": {
+    "Name": "無駄省き",
+    "Description": "カードを<h>廃棄</h>するたび、<h>熱</h><Value1 />を得る。"
+  },
+  "WhiteHole": {
+    "Name": "ホワイトホール",
+    "Description": "<h>ターン終了時</h>：<Block /><h>ブロック</h>を得て、<h>ダークマター</h>1枚を捨て札に加える。"
+  },
+  "ZeroPoint": {
+    "Name": "零点フィールド",
+    "Description": "<h>質量体</h><br /><h>牽引された時</h>：<Shield /><h>バリア</h>を得て、<h>虚無</h>を持つ<SelfName />のコピーを1枚手札に加える。"
+  },
+
+  "YoumuAgelessObsession": {
+    "Name": "一念無量劫",
+    "Description": "すべての敵に<h>ロックオン</h><Value1 />を与える。<br />対象が受けるロックオンが倍になる。"
+  },
+  "YoumuAppearingAndDisappearing": {
+    "Name": "大悟顕晦",
+    "Description": "手札、山札、捨札から<Value1 />枚までカードを<h>廃棄</h>する。この効果によって<h>廃棄</h>された妖夢の<h>虚無</h>カードを捨札に加える。"
+  },
+  "YoumuAscensionToBuddhahood": {
+    "Name": "成仏得脱",
+    "Description": "毎ターン最初にプレイしたカードに<h>反復</h>を与える。<br /><h>充填</h>:<Mana />を得る。"
+  },
+  "YoumuAsuraSword": {
+    "Name": "修羅剣",
+    "Description": "<Damage /> ダメージを<Value1 />回与える。<br />対象に<h>ロックオン</h><Value1 />を与える。"
+  },
+  "YoumuAttackG": {
+    "Name": "天界剣",
+    "Description": "<Damage />ダメージを与える。"
+  },
+  "YoumuAttackW": {
+    "Name": "人界剣",
+    "Description": "<Damage />ダメージを与える。"
+  },
+  "YoumuBizareness": {
+    "Name": "六道怪奇",
+    "Description": "対象に<h>ロックオン</h>を与える度、<h>毒</h><Value1 />を与える。"
+  },
+  "YoumuBlockG": {
+    "Name": "防御姿勢",
+    "Description": "<Block /><h>ブロック</h>を得る。"
+  },
+  "YoumuBlockW": {
+    "Name": "魂符",
+    "Description": "<Block /><h>ブロック</h>を得る。"
+  },
+  "YoumuBloodOfAsura": {
+    "Name": "修羅の血",
+    "Description": "<h>攻撃</h>カードをプレイする度、<h>火力</h><Value1 />を得る。"
+  },
+  "YoumuBuddhahoodOfFlora": {
+    "Name": "草木成佛",
+    "Description": "<h>グレイズ</h><Value1 />を得る。<br /><h>抜刀</h>"
+  },
+  "YoumuBulletCuttingSpirit": {
+    "Name": "弾をも断つ心の眼",
+    "Description": "ライフを<Value2 />を得る。<br />戦闘終了まで手札のカードを1枚<h>アップグレード</h>する。",
+    "UpgradedDescription": "ライフを<Value2 />を得る。<br />戦闘終了まで手札のカードをすべて<h>アップグレード</h>する。"
+  },
+  "YoumuCircularVicissitude": {
+    "Name": "円心流転",
+    "Description": "<Block /><h>ブロック</h>を得る。<br />もし<PlayerName />の手札に<Value1 />枚以上の<h>斬撃</h>があれば、<h>抜刀</h>"
+  },
+  "YoumuClearingMind": {
+    "Name": "無念無想",
+    "Description": "手札から<Value1 />枚までカードを廃棄する。<br />その枚数に等しい<h>現世斬</h>を手札に加える。"
+  },
+  "YoumuClearingTheSixSenses": {
+    "Name": "六根清浄",
+    "Description": "<PlayerName />からすべてのデバフを取り除く。<br />なにかデバフが取り除かれた時、<h>火力</h><Value1 />を得る。"
+  },
+  "YoumuClosedEyeSlash": {
+    "Name": "瞑斬",
+    "Description": "<Damage />ダメージを与える。<br />このダメージが敵のHPを減らした時、それと同じ値の<h>反撃</h>を得る。"
+  },
+  "YoumuConventionalTruth": {
+    "Name": "俗諦",
+    "Description": "<h>廃棄場</h>から手札に<Value1 />枚までのカードを戻す。<br /><h>抜刀</h>"
+  },
+  "YoumuCounterSignalling": {
+    "Name": "反撃の狼煙",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>反撃</h><Block />を得る。<br /><h>成長</h>:<h>ブロック</h>と<h>反撃</h>を<Value1 />増やす。"
+  },
+  "YoumuCrescentMoonSlash": {
+    "Name": "弦月斬",
+    "Description": "<Damage />ダメージを与える。<br />対象に<h>ロックオン</h><Value1 />を与える。<br /><h>抜刀</h>"
+  },
+  "YoumuDivineSevering": {
+    "Name": "神閃",
+    "Description": "戦闘終了まで<PlayerName />が<h>抜刀</h>する度、すべての<h>斬撃</h>を<Value1 />ダメージ強化する。<br /><h>抜刀</h>",
+    "UpgradedDescription": "戦闘終了まで<PlayerName />が<h>抜刀</h>する度、すべての<h>斬撃</h>を<Value1 />ダメージ強化する。<br /><h>抜刀</h>2回"
+  },
+  "YoumuDualWielder": {
+    "Name": "生命の二刀流",
+    "Description": "<PlayerName />が<h>ロックオン</h><Value1 />を与えるたびに、<h>現世斬</h>を<Value2 />枚手札に加える。",
+    "UpgradedDescription": "<h>現世斬</h>を<Value2 />枚手札に加える。<br /><PlayerName />が<h>ロックオン</h><Value1 />を与えるたびに、<h>現世斬</h>を<Value2 />枚手札に加える。"
+  },
+  "YoumuDyingDeva": {
+    "Name": "天人の五衰",
+    "Description": "<h>ターン終了時</h>: <h>ロックオン</h>がついてる敵に<Value1 />ダメージを与える。<br /><h>手札にある時</h>:敵にデバフを与えるたびに、<SelfName />のダメージが<Value2 />増える(この戦闘中のみ)"
+  },
+  "YoumuEmbercleave": {
+    "Name": "エンバレスの宝剣",
+    "Description": "このカードが手札にある時、<h>攻撃</h>カードをプレイする度<SelfName />のコストが<Mana />減る(この戦闘中のみ)。<br />使用したターンの<h>攻撃</h>のダメージを2倍にする。"
+  },
+  "YoumuFlashOfTheNetherworld": {
+    "Name": "冥府光芒一閃",
+    "Description": "追加ターンの終わりに、すべての敵に<Value1 />ダメージをそのターンプレイしたカードの枚数と同じ回数分与える。<br /><PlayerName />のターンを終了し、追加ターンを得る。<br /><h>時間制限</h> <Mana />"
+  },
+  "YoumuGhostSlash": {
+    "Name": "幽鬼斬",
+    "Description": "<Damage />ダメージを与える。<br /><h>廃棄された時</h>:<Block /><h>ブロック</h>を得る。"
+  },
+  "YoumuGreatEnlightenment": {
+    "Name": "大悟",
+    "Description": "<PlayerName />のターン開始時、<h>抜刀</h><br /><h>抜刀</h>"
+  },
+  "YoumuHakugyokurou": {
+    "Name": "白玉楼",
+    "Description": "<h>ターン開始時</h>:カードを<Value2 />枚引く。<br /><h>手札にある時</h>:<Value1 />枚の<h>斬撃</h>カードをプレイしたなら、敵全体に<Damage />ダメージを与えこのカードを捨てる。"
+  },
+  "YoumuHalfBodyDistillation": {
+    "Name": "半身大悟",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>廃棄場</h>の<h>斬撃</h> または妖夢の<h>虚無</h>のカードを<Value1 />枚まで選び、手札に戻す。"
+  },
+  "YoumuHeavenlyHalo": {
+    "Name": "天界法輪",
+    "Description": "<Block /><h>ブロック</h>を得る。<br />手札に<h>現世斬</h>を<Value1 />枚加える。"
+  },
+  "YoumuHesitationCuttingSword": {
+    "Name": "断迷剣",
+    "Description": "手札に<h>現世斬</h>を<Value1 />枚加える。<br /><h>抜刀</h>2回",
+    "UpgradedDescription": "手札に<h>現世斬+</h>を<Value1 />枚加える。<br /><h>抜刀</h>2回"
+  },
+  "YoumuHesitationSign": {
+    "Name": "迷符",
+    "Description": "<h>ロックオン</h><Value1 />を与える。<br /><h>廃棄された時</h>:すべての敵に<h>ロックオン</h><Value2 />を与える。"
+  },
+  "YoumuInclemency": {
+    "Name": "衆生無情",
+    "Description": "手札の全てのカードが<h>臨時コスト</h><Mana />になる。<br />このターン、追加でカードを引くことができない。",
+    "UpgradedDescription": "カードを<Value1 />枚引く。<br />手札の全てのカードが<h>臨時コスト</h><Mana />になる。<br />このターン、追加でカードを引くことができない。"
+  },
+  "YoumuInfiniteKalpas": {
+    "Name": "無量劫",
+    "Description": "<PlayerName />のターン開始時、<Value1 />枚のランダムな妖夢のカードを手札に加える。それらのカードは<h>虚無</h>"
+  },
+  "YoumuInnerEye": {
+    "Name": "心眼",
+    "Description": "<h>斬撃</h>がプレイされるたびに、<h>反撃</h><Value1 /> を得る。"
+  },
+  "YoumuInsightfulSword": {
+    "Name": "炯眼剣",
+    "Description": "<Damage />ダメージを与える。<br /><h>抜刀</h>",
+    "UpgradedDescription": "<Damage />ダメージを与える。<h>現世斬</h>を手札に加える。<br /><h>抜刀</h>"
+  },
+  "YoumuKarmaGust": {
+    "Name": "業風",
+    "Description": "すべての敵に<h>ロックオン</h><Value1 />と<h>脱力</h><Value1 />を与える。"
+  },
+  "YoumuKarmicPunishment": {
+    "Name": "無為無策の冥罰",
+    "Description": "<Mana />を得る。<br />カードを<Value1 />枚引く。<br />対象に<h>ロックオン</h><Value2 />を与える。"
+  },
+  "YoumuLivingAndDead": {
+    "Name": "生と死",
+    "Description": "妖夢のカード<Value1 />枚の中から<Value2 />枚を選び、手札に加える。<br />それは<h>臨時コスト</h><Mana />で<h>虚無</h>を持つ。"
+  },
+  "YoumuLotusPostureSlash": {
+    "Name": "結跏趺斬",
+    "Description": "<Damage />ダメージを与える。<br /><Mana />を得る。"
+  },
+  "YoumuMatsuyoiReflecting": {
+    "Name": "待宵反射",
+    "Description": "<h>反撃</h>の値を2倍にする。<br />もし<PlayerName />が<h>反撃</h><Block />未満なら、代わりに<h>反撃</h><Block />を得る。 "
+  },
+  "YoumuMeikyoShisui": {
+    "Name": "明鏡止水",
+    "Description": "<h>反撃</h><Block />を得る。<br />カードを<Value1 />枚引く。"
+  },
+  "YoumuNetherMeditation": {
+    "Name": "冥界瞑想",
+    "Description": "手札から <Value2 />枚攻撃カードを選ぶ。その<h>コピー</h><Value1 />枚手札に加える。"
+  },
+  "YoumuNextToNone": {
+    "Name": "斬れぬものなど殆ど無い",
+    "Description": "対象から<h>ブロック</h>、<h>バリア</h>、<h>グレイズ</h>、<h>光学迷彩</h>、<h>天衣無縫</h>を取り除く。<br /><h>抜刀</h>"
+  },
+  "YoumuPhantomFormation": {
+    "Name": "影陣",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>ロックオン</h>を持ってる敵に臨時火力ダウン<Value1 />を与える"
+  },
+  "YoumuPhosphoricSlash": {
+    "Name": "燐気斬",
+    "Description": "<Damage />ダメージを与える。対象が<h>ロックオン</h><Value1 />以上のとき、<Mana />を得る。"
+  },
+  "YoumuPreachingAvici": {
+    "Name": "折伏無間",
+    "Description": "<h>現世斬</h>を手札に<Value1 />枚加える。<br /><h>廃棄された時</h>:<h>抜刀</h>"
+  },
+  "YoumuPretaSword": {
+    "Name": "餓鬼剣",
+    "Description": "<Damage />ダメージを与える。<br />対象が<h>ロックオン</h><Value1 />以上であれば、カードを<Value2 />枚引く"
+  },
+  "YoumuQuickDraw": {
+    "Name": "抜刀術",
+    "Description": "カードを<Value1 />枚引く。<br /><h>抜刀</h>"
+  },
+  "YoumuReflectionSlash": {
+    "Name": "反射斬",
+    "Description": "<Damage />ダメージを与える。<br />敵が攻撃しようとしている場合、<h>反撃</h><Block />を得る。"
+  },
+  "YoumuReinforcementOfTheArmy": {
+    "Name": "増援",
+    "Description": "山札から<Value1 />枚までの攻撃カードを選び、手札に加える。その<h>臨時コスト</h>は<Mana />"
+  },
+  "YoumuSatelliteSlash": {
+    "Name": "衛星斬",
+    "Description": "<Damage />ダメージを与える。<br /><PlayerName />が<h>抜刀</h>するたびに、捨て札の<SelfName />を手札に戻す。"
+  },
+  "YoumuScatteredFlowers": {
+    "Name": "散花",
+    "Description": "<Block /><h>ブロック</h>を得る。<br />敵の<h>ロックオン</h>に等しいダメージをそれぞれの敵に与える。",
+    "UpgradedDescription": "<Block /><h>ブロック</h>を得る。<br />敵の<h>ロックオン</h>に等しいダメージを<Value1 />回それぞれの敵に与える。"
+  },
+  "YoumuSevenHakus": {
+    "Name": "七魄",
+    "Description": "<Block /><h>ブロック</h>を得る。<br /><h>反撃</h><Block />を得る。<br /><h>反射</h><Value1 />を得る。<br /><h>廃棄された時</h>:<PlayerName />のターン開始時、ブロックは失われない。"
+  },
+  "YoumuSilentNirvana": {
+    "Name": "涅槃寂静",
+    "Description": "敵にデバフを与えるたびに、<Value1 /><h>ブロック</h>を得る。"
+  },
+  "YoumuSingleThought": {
+    "Name": "一念",
+    "Description": "<Mana />を得る。<br /><h>廃棄された時</h>:次のターン<ManaEthereal />を得る。"
+  },
+  "YoumuSlashDraw": {
+    "Name": "抽刀斬",
+    "Description": "<h>このカードを引いた時</h>:すべての敵に<Damage />ダメージを与え、<SelfName />を廃棄する。"
+  },
+  "YoumuSlashOfDeparture": {
+    "Name": "迷津慈航斬",
+    "Description": "<Damage />ダメージを与える。<h>廃棄場</h>のカード1枚につきダメージが<Value1 />増加する。"
+  },
+  "YoumuSlashOfKarmicWind": {
+    "Name": "業風斬",
+    "Description": "<Damage />ダメージを<Value1 />回与える。<br /><SelfName />は<h>ロックオン</h>の影響が2倍になる。"
+  },
+  "YoumuSlashOfMeditation": {
+    "Name": "冥想斬",
+    "Description": "<Damage />ダメージを与える。<br /><Block /> <h>ブロック</h>を得る。"
+  },
+  "YoumuSlashOfPresent": {
+    "Name": "現世斬",
+    "Description": "<Damage />ダメージを与える。"
+  },
+  "YoumuSpiritMediumBind": {
+    "Name": "憑坐の縛",
+    "Description": "カードが<h>廃棄</h>される度に、すべての敵に<Value1 />ダメージを与える。"
+  },
+  "YoumuSpringWind": {
+    "Name": "春風",
+    "Description": "敵全体に<h>ロックオン</h><Value1 />を与える。<br />カードを<Value2 />枚引く。"
+  },
+  "YoumuStrangeBird": {
+    "Name": "怪鳥",
+    "Description": "対象に<h>ロックオン</h><Value2 />を与える。<br /><h>グレイズ</h><Value1 />を得る。"
+  },
+  "YoumuSwordAura": {
+    "Name": "剣気",
+    "Description": "<h>火力</h><Value1 />を得る。このカードが手札にあるとき、そのターン内に<PlayerName />が<h>抜刀</h>した回数分、追加で<h>火力</h><Value2 />を得る。"
+  },
+  "YoumuSwordOfBinding": {
+    "Name": "纏縛剣",
+    "Description": "<Damage />ダメージをすべての敵に与える。<br />敵全体<h>ロックオン</h><Value1 />を与える。"
+  },
+  "YoumuTenKingsRetribution": {
+    "Name": "十王の報い",
+    "Description": "<h>反撃</h><Block />を得る。<br /><PlayerName />の<h>ブロック</h>を全て<h>反撃</h>に変換する。"
+  },
+  "YoumuThreeKons": {
+    "Name": "三魂",
+    "Description": "カードを<Value1 />枚引く。<br /><h>帯電</h><Value1 />を得る。<br /><h>廃棄された時</h>:<PlayerName />の次のターン開始時、カードを<Value2 />枚引く。"
+  },
+  "YoumuTransmigrationSlash": {
+    "Name": "生死流転斬",
+    "Description": "<Damage />ダメージを与える。<br />対象に<h>ロックオン</h><Value1 />を与える。<br /><h>廃棄された時</h>:すべての敵がライフを<Value2 />失う。"
+  },
+  "YoumuTurningAngelCut": {
+    "Name": "天女返し",
+    "Description": "<Mana />につき:手札に<h>現世斬</h>を<Value1 />枚加える、<h>臨時コスト</h><ManaEmpty /><br /><ManaGreen />につき:対象に<h>ロックオン</h><Value2 />を与える。"
+  },
+  "YoumuTwoHundredYojana": {
+    "Name": "二百由旬",
+    "Description": "手札に<h>現世斬</h>を<Value1 />枚加える。<br /><h>抜刀</h>",
+    "UpgradedDescription": "手札に<h>現世斬+</h>を<Value1 />枚加える。<br /><h>抜刀</h>"
+  },
+  "YoumuUnendingWinter": {
+    "Name": "終わりなき冬",
+    "Description": "<PlayerName />が攻撃でダメージを与える度に、<h>冷気</h><Value1 />を与える。"
+  },
+  "YoumuWatchtowerSword": {
+    "Name": "楼観剣",
+    "Description": "<PlayerName />が攻撃ダメージを与えるたびに、対象に<h>ロックオン</h><Value1 />を与える"
+  },
+  "YoumuWaterfowlDance": {
+    "Name": "水鳥乱舞",
+    "Description": "<Damage />ダメージを<Value1 />回与える。<br />このターン<h>抜刀</h>した回数に応じて追加効果を得る。<br /><UnsheathedThreshold1 />+:対象に<h>ロックオン</h><Value2 />を与える。<br /><UnsheathedThreshold2 />+:追加でダメージをもう一回与える。<br /><UnsheathedThreshold3 />+:<Mana />を得る。"
+  },
+  "YoumuWheelOfPain": {
+    "Name": "幽明の苦輪",
+    "Description": "すべての敵に<h>ロックオン</h><Value1 />を与える。<br /><PlayerName />のターン開始時、すべての敵に<h>ロックオン</h><Value1 />を与える。"
+  },
+  "YoumuWickedSoul": {
+    "Name": "悪魂",
+    "Description": "対象に<h>ロックオン</h><Value1 />を与える。<br />対象に<h>臨時火力ダウン</h><Value2 />を与える。"
+  },
+  "YoumuYuyukoFriend": {
+    "Name": "華胥の亡霊、幽々子",
+    "Description": "敵全体に<h>生者必滅の理</h><Value1 />を与える。",
+    "PassiveDescription": "<Mana />を得る。",
+    "ActiveDescription": "敵全体に<h>脱力</h><Value2 />と<h>弱体</h><Value2 />を与える。",
+    "UltimateDescription": "<PlayerName />のターン終了時に、敵全体に<h>生者必滅の理</h><Value1 />を与える。"
+  }
+}

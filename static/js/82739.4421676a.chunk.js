@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[82739],{82739:s=>{s.exports=JSON.parse('["Easy","Normal","Hard","Lunatic"]')}}]);

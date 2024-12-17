@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklbol_logs_dev=self.webpackChunklbol_logs_dev||[]).push([[20113],{20113:e=>{e.exports=JSON.parse('{"name":"LBoL Logs - \u6771\u65b9\u5149\u8000\u591c\u6b77\u53f2\u8a73\u7d30\u5171\u4eab"}')}}]);
